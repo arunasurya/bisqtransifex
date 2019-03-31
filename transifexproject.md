@@ -1,4 +1,4 @@
-# Transifex Projects
+# Transifex Project
 
 ## Bisq-desktop project
 
