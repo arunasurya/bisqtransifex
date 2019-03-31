@@ -6,8 +6,8 @@
 1. Translate and review 100% for all core languages.
 2. Create an active community of translators who produce high quality work on a regular basis.
 3. Set up consistent guidelines for translations and reviews.
-  - Glossary
-  - Style guide
+   - Glossary
+   - Style guide
   
   
 ### Subgoals
