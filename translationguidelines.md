@@ -1,12 +1,14 @@
 # Translation Guidelines
 
-“Fundamentally, translation is about understanding the source document, understanding the subject matter, and writing well.” 
+*“Fundamentally, translation is about understanding the source document, understanding the subject matter, and writing well.”* 
                                                                                  - A guide to translation project management
 
+## Introduction
+The aim of this document is to establish guidelines to help Bisq translators produce high quality translations, up to par with that of translation agencies.
+
 ## Translators
-- It is best to have at least two translators in each language team, with one person translating a specific part of the document, and another - reviewing the doc.
-- Most (though not all) professional translators translate into their native language only.
-  - Ideally, have an expert in the field (technical background) translate into his/her native language. 
+- It is best to have at least **two translators** in each language team, with one person translating a specific part of the document, and another - reviewing the doc.
+- The translators in each language team should work closely and coordinate their work.
 
 ## Review/edits
 - Editing involves checking the translation thoroughly against the original. 
