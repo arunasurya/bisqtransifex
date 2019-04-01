@@ -16,3 +16,6 @@ Establish and coordinate active language teams with the members of each team col
 
 #### Glossary Initiative
 Oversee the creation of a comprehensive glossary that is consistent across all core languages.
+
+#### Translator Documentation
+Create documentation that can help new and current translators with certain processes such as submitting compensation requests, sticking to standards in translation, etc.
