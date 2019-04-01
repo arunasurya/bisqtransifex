@@ -7,4 +7,4 @@
 ## Compensation Requests
 - Compensation request rate...
 
-## Translation Guidelines
+## [Translation Guidelines](translationguidelines.md)
