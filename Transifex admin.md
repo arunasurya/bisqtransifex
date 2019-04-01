@@ -7,7 +7,7 @@ The Transifex admin coordinates the successful completion of ongoing Bisq transl
 ### Current
 - Create [monthly reports](https://github.com/bisq-network/roles/issues/20).
 - Update the translations for all core languages for each new release.
-- Moderate #transifex slack community.
+- Moderate #transifex slack channel.
 
 ### New
 
