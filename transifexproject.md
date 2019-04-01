@@ -12,5 +12,5 @@
   
 ### Subgoals
 - Finalize the core language list, communicate the list to the translator community.
-- Create robust language teams consisting of at least two translators who work closely.
+- Create active language teams consisting of at least two translators who work closely.
 - Continue work on the glossary initiative.
