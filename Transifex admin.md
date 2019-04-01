@@ -12,10 +12,10 @@ The Transifex admin coordinates the successful completion of ongoing Bisq transl
 ### New
 
 #### Transifex Language Teams
-Establish and coordinate active language teams with the members of each team collaborating to produce quality translations. 
+Establish and coordinate active language teams with the members of each team collaborating closely to produce quality translations. 
 
 #### Glossary Initiative
 Oversee the creation of a comprehensive glossary that is consistent across all core languages.
 
 #### Translator Documentation
-Create documentation that can help new and current translators with certain processes such as submitting compensation requests, sticking to standards in translation, etc.
+Create documentation that can help new and current translators do their work efficently.
