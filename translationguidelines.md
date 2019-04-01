@@ -7,7 +7,7 @@
 The aim of this document is to establish guidelines to help Bisq translators produce high quality translations, up to par with that of translation agencies.
 
 ## Translators
-- It is best to have at least **two translators** in each language team, with one person translating a specific part of the document, and another - reviewing the doc.
+- It is best to have at least **two translators** in each language team, with one person translating a specific part of the document, and another reviewing it.
 - The translators in each language team should work closely and coordinate their work.
 
 ## Reviews
