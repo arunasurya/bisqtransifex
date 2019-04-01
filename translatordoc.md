@@ -1,7 +1,10 @@
 # Translator Documentation
 
-## For new translators
+## New Translators
 
-## Submitting a compensation request
+## Team Structure
 
-## Translation standards
+## Compensation Requests
+- Compensation request rate...
+
+## Translation Guidelines
