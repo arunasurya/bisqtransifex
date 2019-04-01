@@ -4,7 +4,7 @@
                                                                                  - A guide to translation project management
 
 ## Translators
-- It is best to have a single translator or a small, collaborative team of translators in a language team. 
+- It is best to have at least two translators in each language team, with one person translating a specific part of the document, and another - reviewing the doc.
 - Most (though not all) professional translators translate into their native language only.
   - Ideally, have an expert in the field (technical background) translate into his/her native language. 
 
