@@ -8,21 +8,18 @@
 - Compensation request rate...
 
 ## Core Languages
-[TODO: describe how they are decided]
 
 ### Current
 - German
 - Spanish
+- Portuguese
 - Russian
 - Chinese (Mandarin)
-- Portuguese (Brazil)
 - French
-- Thai
-- Vietnamese
 - Persian
+- Thai 
+- Vietnamese
 - Greek
-- Serbian
-- Hungarian
-- Romanian
+
 
 ## [Translation Guidelines](translationguidelines.md)
