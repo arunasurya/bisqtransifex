@@ -33,8 +33,8 @@ Although we have 29 languages for the bisq-desktop project, for now, we are putt
 
 ## Compensation Requests
 - Here are some past compensation requests for you to gauge your own request: 
-https://github.com/bisq-network/compensation/issues/240
-https://github.com/bisq-network/compensation/issues/241
+- https://github.com/bisq-network/compensation/issues/240
+- https://github.com/bisq-network/compensation/issues/241
 
 - Please submit proof of your work along with your request. This is done to help the stakeholders validate your request.
 - For translations:
