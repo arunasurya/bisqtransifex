@@ -35,5 +35,11 @@ Although we have 29 languages for the bisq-desktop project, for now, we are putt
   - Choose among filters *status: translated*, pick your name/nick in *users: translator*, and the translation period in *date: translated after/before*.
   - Please take snapshots of all your work for a certain period and include them in your compensation request. 
   - Here is an example of snapshots for reviewing a translation.
+  
+  ![Transifex comp request: reviewer April 2019](https://user-images.githubusercontent.com/43150241/56221854-4eb89e80-606b-11e9-9eff-1d8f23f4cf4c.png)
+
+![Transifex comp req 3 April 2019](https://user-images.githubusercontent.com/43150241/56221896-5b3cf700-606b-11e9-8ba4-329152107e4a.png)
+
+![Transifex comp req 2 April 2019 ](https://user-images.githubusercontent.com/43150241/56221966-7a3b8900-606b-11e9-9d7e-d22d14834fff.png)
 
 ## [Translation Guidelines](translationguidelines.md)
