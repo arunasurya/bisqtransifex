@@ -33,7 +33,7 @@ Although we have 29 languages for the bisq-desktop project, for now, we are putt
 - Please submit proof of your work along with your request. This is done to help the stakeholders validate your request.
 - For translations:
   - Choose among filters *status: translated*, pick your name/nick in *users: translator*, and the translation period in *date: translated after/before*.
-  - Please take snapshots of your work and include them in your compensation request. 
-  - Here is an example of snapshots for reviewing a translation [TODO: include the snapshots]
+  - Please take snapshots of all your work for a certain period and include them in your compensation request. 
+  - Here is an example of snapshots for reviewing a translation.
 
 ## [Translation Guidelines](translationguidelines.md)
