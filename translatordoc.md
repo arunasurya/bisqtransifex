@@ -32,7 +32,10 @@ The list is based on several factors such as usage of the software by the speake
 Although we have 29 languages for the bisq-desktop project, for now, we are putting the translations for the noncore languages on hold. We are going to keep them in the project, but the translation of those languages is not compensated for the moment. This is not a final list, and we welcome discussions and suggestions for adding/removing languages. The decision to add a new language to the list above will be mostly based on the user base in that language and the parameters outlined above.
 
 ## Compensation Requests
-- Here are the past compensation requests for you to gauge your own request [TODO: add github links to past comp.r]
+- Here are some past compensation requests for you to gauge your own request: 
+https://github.com/bisq-network/compensation/issues/240
+https://github.com/bisq-network/compensation/issues/241
+
 - Please submit proof of your work along with your request. This is done to help the stakeholders validate your request.
 - For translations:
   - Choose among filters *status: translated*, pick your name/nick in *users: translator*, and the translation period in *date: translated after/before*.
