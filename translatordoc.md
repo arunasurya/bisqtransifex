@@ -37,10 +37,11 @@ Although we have 29 languages for the bisq-desktop project, for now, we are putt
 - https://github.com/bisq-network/compensation/issues/241
 
 - Please submit proof of your work along with your request. This is done to help the stakeholders validate your request.
-- For translations:
+- For translators:
   - Choose among filters *status: translated*, pick your name/nick in *users: translator*, and the translation period in *date: translated after/before*.
   - Please take snapshots of all your work for a certain period and include them in your compensation request. 
   - Here is an example of snapshots for reviewing a translation.
+ - For reviewers: use *status: reviewed*, *users: reviewer*.
   
   ![Transifex comp request: reviewer April 2019](https://user-images.githubusercontent.com/43150241/56221854-4eb89e80-606b-11e9-9eff-1d8f23f4cf4c.png)
 
