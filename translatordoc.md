@@ -1,7 +1,7 @@
 # Translator Documentation
 
 ## Current Projects
-As of April 2019, we have one active project, bisq-desktop. We are planning to translate the Bisq site in the future.
+As of April 2019, we have one active project, bisq-desktop, in Transifex. In the near future, we are planning to start translating certain Bisq pages and core documentation. This will be announced in three major communication channels: Slack transifex channel, announcements in Transifex and on Bisq forum.
 
 ## New Translators
 Anyone is welcome to become a translator by creating an account on Transifex and requesting permission to translate on https://www.transifex.com/bisq. Please note that although we welcome your contributions in a language of your choice, currently only translations for ten core languages are being compensated.
