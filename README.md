@@ -2,6 +2,6 @@
 
 If you are interested in contributing to Bisq via translations, you can find relevant information here.
 
-- Translator Documentation
+- [Translator Documentation](translatordocumentation.md)
 - [Translation Guidelines](translationguidelines.md)
 - [Transifex Admin Role](transifexadmin.md)
