@@ -4,7 +4,7 @@
 As of April 2019, we have one active project, bisq-desktop, in Transifex. In the near future, we are planning to start translating certain Bisq pages. This will be announced in three major translator communication channels: #transifex Slack channel, announcements in Transifex, and on Bisq forum.
 
 ## New Translators
-Anyone is welcome to become a translator by creating an account on Transifex and requesting permission to translate on https://www.transifex.com/bisq. Please note that although we welcome your contributions in a language of your choice, currently only translations for ten core languages (see below) are being compensated. The list can change, depending on the demand among users for the software version in a language and on feedback from other contributors.
+Anyone is welcome to become a translator by creating an account on Transifex and requesting permission to translate on https://www.transifex.com/bisq. Please note that although we welcome your contributions in a language of your choice, currently only translations for ten core languages (see below) are being compensated. The list can change, depending on the demand among users for the software version in a specific language and feedback from other contributors.
 
 ## Team Structure
 Ideally, each language team has at **least two translators** who work closely with each other and contribute on a regular basis. While one translator can focus on translation, the other can perform reviews of these translations. You can learn more about translations and reviews [here](translationguidelines.md). The project is coordinated by the [Transifex admins](transifexadmin.md). 
