@@ -22,4 +22,4 @@ Establish and coordinate active language teams with the members of each team col
 Oversee the creation of a comprehensive glossary that is consistent across all core languages and a style guide that can set standards for all translations.
 
 #### Translator Documentation
-Create documentation that can help new and current translators do their work efficently.
+Create documentation that can help new and current translators do their work efficiently.
