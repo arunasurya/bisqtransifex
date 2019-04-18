@@ -7,7 +7,7 @@
 These are rough guidelines to facilitate a smooth translation process and produce high quality translations.
 
 ## Transifex project
-The Transifex project is run by a group of Bisq contributors: Transifex admins, translators and reviewers. The [admins](transifexadmin.md) coordinate various activities and typically also contribute as translators and/or reviewers.
+The Transifex project is run by a group of Bisq contributors: Transifex admins, translators and reviewers. [Transifex admins](transifexadmin.md) coordinate various activities and typically also contribute as translators and/or reviewers.
 
 ## Translators
 Anyone can become a translator by requesting permission to translate. Please note that only translations for certain languages are compensated at any given moment. You can learn more about it [here](translatordocumentation.md).
