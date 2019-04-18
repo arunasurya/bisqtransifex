@@ -9,6 +9,7 @@ The tasks are divided between the two Transifex admins. The admin acting in the 
 - Create [monthly reports](https://github.com/bisq-network/roles/issues/20).
 - Update the translations for all core languages for each new release.
   - Inform the translators of the planned update a week before the update.
+- Provide clear and updated documentation for translators (compensation, reporting issues, etc)
 - Moderate three major communication channels: #transifex Slack channel, announcements in Transifex, Bisq forum.
 
 ### Secondary
