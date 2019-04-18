@@ -48,5 +48,3 @@ Although we have over 30 languages for the bisq-desktop project, we are putting 
 ![Transifex comp req 3 April 2019](https://user-images.githubusercontent.com/43150241/56221896-5b3cf700-606b-11e9-8ba4-329152107e4a.png)
 
 ![Transifex comp req 2 April 2019 ](https://user-images.githubusercontent.com/43150241/56221966-7a3b8900-606b-11e9-9d7e-d22d14834fff.png)
-
-## [Translation Guidelines](translationguidelines.md)
