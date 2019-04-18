@@ -4,4 +4,4 @@ If you are interested in contributing to Bisq via translations, you can find rel
 
 - Translator Documentation
 - Translation Guidelines
-- Transifex Admin Role
+- [Transifex Admin Role](transifexadmin.md)
