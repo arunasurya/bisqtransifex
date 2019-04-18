@@ -4,11 +4,14 @@
                                                                                  - A guide to translation project management
 
 ## Introduction
-The aim of this document is to establish guidelines to help Bisq translators produce high quality translations, up to par with that of best translation agencies.
+These are some guidelines to help Bisq translators understand the project better and produce high quality translations.
 
 ## Glossary
+- A glossary is needed to provide consistent translations of high frequency terms (such as transaction, private/public key, etc). 
+- This initiative is lead by @y3v63n, and the updates are communicated on the #transifex Slack channel.
 
 ## Style Guide
+TBD
 
 ## Reviews
 - Reviews involve checking the translation thoroughly against the original.
