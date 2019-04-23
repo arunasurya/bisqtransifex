@@ -1,9 +1,9 @@
 # Bisq Transifex Project - Translator Documentation
 
 ## Current Projects
-The aim of the Bisq Transifex project is to produce accurate translations that stay up-to-date with any changes in the original.
+The aim of the Bisq Transifex project is to produce accurate translations of the Bisq software, website, etc, into languages where there is a demand for Bisq.
 
-As of April 2019, we have one active project, bisq-desktop, in Transifex. In the near future, we are planning to start translating certain Bisq pages. This will be announced in three major translator communication channels: #transifex Slack channel, announcements in Transifex, and on Bisq forum. 
+As of April 2019, we have one active project, bisq-desktop, in Transifex. In the near future, we are planning to start translating relevant pages on the Bisq site. This will be announced in three major translator communication channels: #transifex Slack channel, announcements in Transifex, and on Bisq forum. 
 
 ## New Translators
 Anyone is welcome to become a translator by creating an account on Transifex and requesting permission to translate on https://www.transifex.com/bisq. Please note that although we welcome your contributions in a language of your choice, currently only translations for ten core languages (see below) are being compensated. The list can change, depending on the demand among users for the software version in a specific language and feedback from other contributors.
@@ -34,9 +34,10 @@ The list is based on several factors such as usage of the software by the speake
 Although we have over 30 languages for the bisq-desktop project, we are putting the translations for the noncore languages on hold at the moment. We are going to keep them in the project, but the translation of those languages is not compensated [TODO: add more on past translations]. This is not a final list, and we welcome discussions and suggestions for adding/removing languages. The decision to add a new language to the list above will be mostly based on the user base in that language and the parameters outlined above.
 
 ## Compensation Requests
-- Here are some past compensation requests for you to gauge your own request [TODO: discuss more]: 
-- https://github.com/bisq-network/compensation/issues/240
-- https://github.com/bisq-network/compensation/issues/241
+Here are some guidelines for gauging your compensation request [TODO: clarify more]:
+- Past compensation requests:  
+  - https://github.com/bisq-network/compensation/issues/240
+  - https://github.com/bisq-network/compensation/issues/241
 
 - Please submit proof of your work along with your request. This is done to help the stakeholders validate your request.
 - For translators:
