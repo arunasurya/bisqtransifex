@@ -38,6 +38,8 @@ Here are some guidelines for gauging your compensation request [TODO: clarify mo
 - Past compensation requests:  
   - https://github.com/bisq-network/compensation/issues/240
   - https://github.com/bisq-network/compensation/issues/241
+  
+There was a lot of [discussion](https://github.com/bisq-network/compensation/issues/96) on this topic.
 
 - Please submit proof of your work along with your request. This is done to help the stakeholders validate your request.
 - For translators:
