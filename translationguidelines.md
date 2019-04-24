@@ -21,6 +21,14 @@ Ideally, a reviewer performs reviews on someone else's translation, and not on t
 
 A new translator with no prior translation work in Bisq needs to show their skill by translating first. Once their translation can be assessed by the other translators, they can be granted permission to review.
 
+To avoid arbitrary changes, provide more transparency and accountability as well as help reviewers justify their compensation requests please use the following Review Report when making changes to the existing translations.
+- There are separate sheets for each langauge.
+- If there is no sheet for your language, please go to the Template sheet, copy it and rename it accordingly.
+- After finding an issue, please add Transifex segment number, copy source and existing translation into the report and provide a new translation. Add your explanation and choose an error type (refer to the Error Type sheet for more info).
+- Having finished the review, inform the translator so that they can check you corrections and provide comments where necessary.
+
+You can access the Review Report here: https://docs.google.com/spreadsheets/d/1Y_YygGQzuQP4iMf3I7w66nUlCnP9Px0B_3XXITupB_0/edit#gid=0
+
 ## Transifex-specific quality control
 - If you notice a mistake in the English translation, please report it by adding a comment to that particular string and tagging it as an issue. The admins will be informed of the issue and will take proper action. Also, feel free to raise the issue on the #transifex slack channel.
 - In the past, some strings had trailing spaces which caused some problems when updating the translations. Please make sure that there are no trailing spaces in the strings.
@@ -30,8 +38,21 @@ A new translator with no prior translation work in Bisq needs to show their skil
 - A glossary is needed to provide consistent translations of high frequency terms (such as transaction, private/public key, etc). 
 - This initiative is lead by @y3v63n, and the updates are communicated on the #transifex Slack channel.
 
+## Difficult Terms and Queries
+Translators/reviewers might face difficulties rendering various terms/words/segments. To help address this issue, we are currently testing the following approach.
+
+Please add queries to the following spreadsheet so we can try finding solutions collectively (some of translators/reviewers might know the answer) or, if everyone has trouble rendering them, ask the devs to explain them to us / provide synonyms/alternatives. 
+
+Similarly to Review Report, please add the date and Transifex segment number, choose your language and indicate your question. Be sure to add your Transifex ID when leaving a query/answer so that we can get in touch with each other in case we need to elaborate on an issue (there's a sample query for guidance).
+
+The Query Tracker can be accessed here: https://docs.google.com/spreadsheets/d/1P4JMLrcRtSWkxfh9jG7AXkfdgdkEYwgttGgly-ercXc/edit#gid=0
+
 ## Style Guide
-TBD 
+TBD
+
+## LQA Testing
+TBD
+@arunasurya, you mentioned that our Greek translator is checking the strings in the app, which is essentially a standard practice of having a language quality assurance pass before releasing a new version of a software. Maybe, we should consider doing this as well before every major update. Let's discuss if this is feasible and something everyone is willing to participate in.
 
 ## Resources
 Feel free to suggest more resources!
