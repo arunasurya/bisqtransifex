@@ -41,7 +41,7 @@ Similarly to Review Report, please add the date and Transifex segment number, ch
 
 ## Glossary
 - A glossary is needed to provide consistent translations of high frequency terms (such as transaction, private/public key, etc). 
-- This initiative is lead by @y3v63n, and the updates are communicated on the #transifex Slack channel.
+- This initiative is currently lead by @y3v63n, and the updates are communicated on the #transifex Slack channel.
 
 ## Style Guide
 TBD
