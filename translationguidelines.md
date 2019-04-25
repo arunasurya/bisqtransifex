@@ -35,11 +35,9 @@ To avoid arbitrary changes, provide more transparency and accountability as well
 ## Difficult Terms and Queries
 Translators/reviewers might face difficulties rendering various terms/words/segments. To help address this issue, we are currently testing the following approach.
 
-Please add queries to the following spreadsheet so we can try finding solutions collectively (some of translators/reviewers might know the answer) or, if everyone has trouble rendering them, ask the devs to explain them to us / provide synonyms/alternatives. 
+Please add queries to the [Query Tracker](https://docs.google.com/spreadsheets/d/1P4JMLrcRtSWkxfh9jG7AXkfdgdkEYwgttGgly-ercXc/edit#gid=0) so we can try finding solutions collectively (some of translators/reviewers might know the answer) or, if everyone has trouble rendering them, ask the devs to explain them to us / provide synonyms/alternatives. 
 
 Similarly to Review Report, please add the date and Transifex segment number, choose your language and indicate your question. Be sure to add your Transifex ID when leaving a query/answer so that we can get in touch with each other in case we need to elaborate on an issue (there's a sample query for guidance).
-
-The Query Tracker can be accessed here: https://docs.google.com/spreadsheets/d/1P4JMLrcRtSWkxfh9jG7AXkfdgdkEYwgttGgly-ercXc/edit#gid=0
 
 ## Glossary
 - A glossary is needed to provide consistent translations of high frequency terms (such as transaction, private/public key, etc). 
