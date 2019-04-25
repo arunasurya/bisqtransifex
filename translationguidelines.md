@@ -4,7 +4,7 @@
                                                                                  - A guide to translation project management
 
 ## Introduction
-These are rough guidelines to facilitate a smooth translation process and produce accurate and up-to-date translations. All the translations for Bisq need to go through Transifex to be evaluated and reviewed.
+Here are some guidelines to facilitate a smooth translation process and produce accurate and up-to-date translations. All the translations for Bisq need to go through Transifex to be evaluated and reviewed.
 
 ## Transifex project
 The Transifex project is run by a group of Bisq contributors: Transifex admins, translators and reviewers. [Transifex admins](transifexadmin.md) coordinate various activities and often also contribute as translators and/or reviewers.
@@ -21,17 +21,30 @@ Ideally, a reviewer performs reviews on someone else's translation, and not on t
 
 A new translator with no prior translation work in Bisq needs to show their skill by translating first. Once their translation can be assessed by the other translators, they can be granted permission to review.
 
-## Transifex-specific quality control
-- If you notice a mistake in the English translation, please report it by adding a comment to that particular string and tagging it as an issue. The admins will be informed of the issue and will take proper action. Also, feel free to raise the issue on the #transifex slack channel.
+To avoid arbitrary changes, provide more transparency and accountability as well as help reviewers justify their compensation requests, please use the following [Review Report](https://docs.google.com/spreadsheets/d/1Y_YygGQzuQP4iMf3I7w66nUlCnP9Px0B_3XXITupB_0/edit#gid=0) when making changes to the existing translations.
+- There are separate sheets for each langauge.
+- If there is no sheet for your language, please go to the Template sheet, copy it and rename it accordingly.
+- After finding an issue, please add Transifex segment number, copy source and existing translation into the report and provide a new translation. Add your explanation and choose an error type (refer to the Error Type sheet for more info).
+- Having finished the review, inform the translator so that they can check you corrections and provide comments where necessary.
+
+## Language Quality Assurance
+- If you notice a mistake in the English version, please report it by adding a comment to that particular string and tagging it as an issue. The admins will be informed of the issue and will take proper action. Also, feel free to raise the issue on the #transifex slack channel.
 - In the past, some strings had trailing spaces which caused some problems when updating the translations. Please make sure that there are no trailing spaces in the strings.
-- Once you are done with your translation and think that it is ready for a new release, please check your translation in the software itself.
+- Once you are done with your translation and think that it is ready for a new release, please check the strings in the software.
+
+## Difficult Terms and Queries
+Translators/reviewers might face difficulties rendering various terms/words/segments. To help address this issue, we are currently testing the following approach.
+
+Please add queries to the [Query Tracker](https://docs.google.com/spreadsheets/d/1P4JMLrcRtSWkxfh9jG7AXkfdgdkEYwgttGgly-ercXc/edit#gid=0) so we can try finding solutions collectively (some of translators/reviewers might know the answer) or, if everyone has trouble rendering them, ask the devs to explain them to us / provide synonyms/alternatives. 
+
+Similarly to Review Report, please add the date and Transifex segment number, choose your language and indicate your question. Be sure to add your Transifex ID when leaving a query/answer so that we can get in touch with each other in case we need to elaborate on an issue (there's a sample query for guidance).
 
 ## Glossary
 - A glossary is needed to provide consistent translations of high frequency terms (such as transaction, private/public key, etc). 
-- This initiative is lead by @y3v63n, and the updates are communicated on the #transifex Slack channel.
+- This initiative is currently lead by @y3v63n, and the updates are communicated on the #transifex Slack channel.
 
 ## Style Guide
-TBD 
+TBD
 
 ## Resources
 Feel free to suggest more resources!

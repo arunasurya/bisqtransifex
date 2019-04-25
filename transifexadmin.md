@@ -1,6 +1,6 @@
 # Transifex Admin
 
-The Transifex admin role is shared by two contributors, one acting in the primary role, and the other acting in the secondary role. This is done to ensure a smooth workflow.
+The Transifex admin role is shared by two contributors, one acting in the primary role, and the other acting in the secondary role. The current transifex admins are @ripcurlx and @arunasurya. This is done to ensure a smooth workflow.
 
 ## Tasks
 The tasks are divided between the two Transifex admins. The admin acting in the primary role coordinates these activities to ensure that all the primary tasks are done in a timely manner.
@@ -8,7 +8,7 @@ The tasks are divided between the two Transifex admins. The admin acting in the 
 ### Primary
 - Create [monthly reports](https://github.com/bisq-network/roles/issues/20).
 - Update the translations for all core languages for each new release.
-  - Inform the translators of the planned update a week before the update.
+  - Inform the translators of the planned update, ideally a week before it happens, and remind them to review their strings in the software.
 - Provide clear and updated documentation to help translators do their work effectively.
     - [Translation Guidelines](translationguidelines.md)
     - [Translator Documentation](translatordocumentation.md)
