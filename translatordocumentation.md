@@ -29,7 +29,7 @@ This is the current list of Bisq languages whose translations/reviews are compen
 - Vietnamese
 - Greek
 
-The list is based on several factors such as usage of the software by the speakers of these languages (we encode the selected language within the software as a parameter when a user opens a link to a web property of ours (e.g. bisq.network or docs.bisq.network). Some users may opt out of this parameter, so this may not be a complete representation), how complete the translation for a particular language is, translator activity level, poor competence in English among speakers of those languages, and the importance of introducing Bisq to certain countries. 
+The list is based on several factors such as usage of the software by the speakers of these languages (we encode the selected language within the software as a parameter when a user opens a link to a web property of ours (e.g. bisq.network or docs.bisq.network), how complete the translation for a particular language is, translator activity level, poor competence in English among speakers of those languages, and the importance of introducing Bisq to certain countries. 
 
 Although we have over 30 languages for the bisq-desktop project, we are putting the translations for the noncore languages on hold at the moment. We are going to keep them in the project, but the translation of those languages is not compensated. This includes all past translations for those languages that have never been included in any of the Bisq releases.
 
