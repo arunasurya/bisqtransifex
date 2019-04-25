@@ -12,7 +12,7 @@ Anyone is welcome to become a translator by creating an account on Transifex and
 Ideally, each language team has at **least two translators** who work closely with each other and contribute on a regular basis. While one translator can focus on translation, the other can perform reviews of these translations, and vice versa. You can learn more about guidelines on translations and reviews [here](translationguidelines.md). The project is coordinated by the [Transifex admins](transifexadmin.md) and active translators. 
 
 ## Translator Collaboration
-One of the transifex admins will reach out to translators in each core language team to engage them and foster active collaboration. Ideally, we will have monthly translator calls to share our knowledge with one another, etc. This will be announced in the three communication channels.
+Monthly translator calls are currently being planned to bring all the interested translators together to share ideas, experiences and discuss various aspects of the project. These calls will be coordinated and moderated by one of the Transifex admins.
 
 ## Core Languages
 
