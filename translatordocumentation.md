@@ -49,6 +49,7 @@ There was a lot of [discussion](https://github.com/bisq-network/compensation/iss
 - For translators:
   - Choose among filters *status: translated*, pick your name/nick in *users: translator*, and the translation period in *date: translated after/before* to specify the translation work to be compensated.
 - For reviewers: use *status: reviewed*, *users: reviewer*.
+- After that tick the box right to the filter field to select all strings, and you will see the total wordcount for the selected strings.
 - Please take snapshots of all your work for a certain period and include them in your compensation request. 
 - Here is an example of screenshots for reviewing a translation.
  
