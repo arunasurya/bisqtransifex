@@ -4,7 +4,7 @@
                                                                                  - A guide to translation project management
 
 ## Introduction
-These are rough guidelines to facilitate a smooth translation process and produce accurate and up-to-date translations. All the translations for Bisq need to go through Transifex to be evaluated and reviewed.
+Here are some guidelines to facilitate a smooth translation process and produce accurate and up-to-date translations. All the translations for Bisq need to go through Transifex to be evaluated and reviewed.
 
 ## Transifex project
 The Transifex project is run by a group of Bisq contributors: Transifex admins, translators and reviewers. [Transifex admins](transifexadmin.md) coordinate various activities and often also contribute as translators and/or reviewers.
