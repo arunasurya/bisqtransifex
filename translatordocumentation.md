@@ -38,7 +38,7 @@ That being said, this is not a final list, and it is subject to change if there 
 Unlike typical companies, Bisq aims to increase its user base in an organic, privacy-preserving manner. This means that we don't want to do typical marketing or work with ad providers that snoop into users' privacy. Ideally, a group of contributors will act in a coordinated manner to educate potential users about Bisq via meetups, etc. Also, as we start translating certain Bisq pages, there might be an increased interest in some noncore languages as well. So, in short, this is a dynamic process, subject primarily to user demand, translator activity, the number of speakers worldwide and competence level.
 
 ## Compensation Requests
-Here are some guidelines for gauging your compensation request, based on the recent requets that have been approved:
+Here are some guidelines for gauging your compensation request, based on the recent requests that have been approved:
 - https://github.com/bisq-network/compensation/issues/240
 - https://github.com/bisq-network/compensation/issues/241
  
