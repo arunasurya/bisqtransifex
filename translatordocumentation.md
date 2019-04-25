@@ -35,7 +35,7 @@ Although we have over 30 languages for the bisq-desktop project, we are putting 
 
 That being said, this is not a final list, and it is subject to change if there is a demand for a new language or if a good reason is given to include that language. A translator is welcome to create a proposal in the Bisq DAO to add a language. A new language is most likely to be accepted if there is an active effort to create a community and user base in that language, e.g., via meetups, [liquidity weeks](https://github.com/bisq-network/compensation/issues/62), forums, etc. If there is an increased interest in a language, say Italian, and if it is accepted to the core list, then the past translations can be compensated.
 
-As we start translating certain Bisq pages, there might be an increased interest in those languages as well. And, if there is no interest in some of the current core languages, or lack of translators, those languages may also be removed. So, in short, this is a dynamic process, subject primarily to user demand, translator activity, the number of speakers worldwide and competence level.
+As we start translating certain Bisq pages, there might be an increased interest in some noncore languages as well. And, if there is no interest in some of the current core languages, or no translator activity, those languages may also be removed. So, in short, this is a dynamic process, subject primarily to user demand, translator activity, the number of speakers worldwide and competence level.
 
 ## Compensation Requests
 Here are some guidelines for gauging your compensation request, based on the recent requets that have been approved:
