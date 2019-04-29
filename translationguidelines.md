@@ -30,7 +30,7 @@ To avoid arbitrary changes, provide more transparency and accountability as well
 ## Language Quality Assurance
 - If you notice a mistake in the English version, please report it by adding a comment to that particular string and tagging it as an issue. The admins will be informed of the issue and will take proper action. Also, feel free to raise the issue on the #transifex slack channel.
 - In the past, some strings had trailing spaces which caused some problems when updating the translations. Please make sure that there are no trailing spaces in the strings.
-- Once you are done with your translation and think that it is ready for a new release, please check the strings in the software.
+- Once you are done with your translation and think that it is ready for [a new release](https://github.com/bisq-network/bisq/milestones), please check the strings in the software.
 
 ## Difficult Terms and Queries
 Translators/reviewers might face difficulties rendering various terms/words/segments. To help address this issue, we are currently testing the following approach.
