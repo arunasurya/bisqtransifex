@@ -11,6 +11,9 @@ The Transifex project is run by a group of Bisq contributors: Transifex admins, 
 
 All the translations for Bisq need to go through Transifex to be evaluated and reviewed.
 
+## Communication
+Daily communication occurs on the #transifex Slack channel, whiile major announcements are posted in Transifex (announcements and [team discussions](https://www.transifex.com/bisq/teams/69542/discussions/)), and on [Bisq forum](https://bisq.community/t/internationalization/1700/12) as well as Slack.
+
 ## Translators
 Anyone can become a translator by creating a [Transifex](https://www.transifex.com/bisq) account and requesting permission to translate. Please note that only translations for the languages that are included in each Bisq release are compensated at any given moment. You can learn more about it [here](translatordocumentation.md).
 
