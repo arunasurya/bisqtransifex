@@ -10,7 +10,7 @@ Here are some guidelines to facilitate a smooth translation process and produce 
 The Transifex project is run by a group of Bisq contributors: Transifex admins, translators and reviewers. [Transifex admins](transifexadmin.md) coordinate various activities and often also contribute as translators and/or reviewers.
 
 ## Translators
-Anyone can become a translator by requesting permission to translate. Please note that only translations for certain languages are compensated at any given moment. You can learn more about it [here](translatordocumentation.md).
+Anyone can become a translator by requesting permission to translate. Please note that only translations for the languages that are included in each Bisq release are compensated at any given moment. You can learn more about it [here](translatordocumentation.md).
 
 ## Reviewers
 Reviews involve checking the translation thoroughly against the original. Each new software release contains the latest translations even though they have not been reviewed. This is done to provide the users with as complete translations as possible.
@@ -21,8 +21,9 @@ Ideally, a reviewer performs reviews on someone else's translation, and not on t
 
 A new translator with no prior translation work in Bisq needs to show their skill by translating first. Once their translation can be assessed by the other translators, they can be granted permission to review.
 
-To avoid arbitrary changes, provide more transparency and accountability as well as help reviewers justify their compensation requests, please use the following [Review Report](https://docs.google.com/spreadsheets/d/1Y_YygGQzuQP4iMf3I7w66nUlCnP9Px0B_3XXITupB_0/edit#gid=0) when making changes to the existing translations.
-- There are separate sheets for each langauge.
+## Review Process
+To avoid arbitrary changes, provide more transparency and accountability as well as help reviewers justify their compensation requests, we recommend that you use the following [Review Report](https://docs.google.com/spreadsheets/d/1Y_YygGQzuQP4iMf3I7w66nUlCnP9Px0B_3XXITupB_0/edit#gid=0) when making changes to the existing translations.
+- There are separate sheets for each language.
 - If there is no sheet for your language, please go to the Template sheet, copy it and rename it accordingly.
 - After finding an issue, please add Transifex segment number, copy source and existing translation into the report and provide a new translation. Add your explanation and choose an error type (refer to the Error Type sheet for more info).
 - Having finished the review, inform the translator so that they can check you corrections and provide comments where necessary.
