@@ -14,7 +14,7 @@ All the translations for Bisq need to go through Transifex to be evaluated and r
 ## Translators
 Anyone can become a translator by creating a Transifex account and requesting permission to translate. Please note that only translations for the languages that are included in each Bisq release are compensated at any given moment. You can learn more about it [here](translatordocumentation.md).
 
-Each new software release contains the latest translations even though they have not been reviewed. This is done to provide the users with as complete translations as possible.
+Each new software release contains the latest translations even though they have not been reviewed. This is done to keep the software translations as up-to-date as possible.
 
 ## Reviewers 
 Reviews involve checking the translation thoroughly against the original. Ideally, a reviewer performs reviews on someone else's translation, and not on their own. Some language teams may consist of only one active translator. In this case, several options are available:
