@@ -1,6 +1,6 @@
 # Transifex Admin
 
-The Transifex admin role is shared by two contributors, one acting in the primary role, and the other acting in the secondary role. The current transifex admins are @ripcurlx and @arunasurya. This is done to ensure a smooth workflow.
+The Transifex admin role is shared by two contributors, one acting in the primary role, and the other acting in the secondary role. This is done to ensure a smooth workflow. The current transifex admins as of April 2019 are @ripcurlx and @arunasurya.
 
 ## Tasks
 The tasks are divided between the two Transifex admins. The admin acting in the primary role coordinates these activities to ensure that all the primary tasks are done in a timely manner.
