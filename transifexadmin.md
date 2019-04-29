@@ -2,6 +2,8 @@
 
 The Transifex admin role is shared by two contributors, one acting in the primary role, and the other acting in the secondary role. This is done to ensure a smooth workflow. The current transifex admins as of April 2019 are @ripcurlx and @arunasurya.
 
+Any Bisq contributor who has been an active translator and reviewer, and has worked closely with the current admins in coordinating the project, can become an admin once the position is open.
+
 ## Tasks
 The tasks are divided between the two Transifex admins. The admin acting in the primary role coordinates these activities to ensure that all the primary tasks are done in a timely manner.
 
@@ -15,7 +17,9 @@ The tasks are divided between the two Transifex admins. The admin acting in the 
 - Moderate three major communication channels: #transifex Slack channel, announcements in Transifex, Bisq forum.
 
 ### Secondary
-Foster collaboration among translators on current and future projects by reaching out to them, setting up group calls, etc.
+
+#### Regular Translator Calls
+Foster collaboration among translators on current and future projects by bringing them together in monthly translator calls. The first call is planned for the second week of May.
 
 #### Transifex Language Teams
 Establish and coordinate active language teams with the members of each team collaborating closely to produce quality translations. 
