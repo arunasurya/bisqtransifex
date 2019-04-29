@@ -12,7 +12,7 @@ The Transifex project is run by a group of Bisq contributors: Transifex admins, 
 All the translations for Bisq need to go through Transifex to be evaluated and reviewed.
 
 ## Translators
-Anyone can become a translator by requesting permission to translate. Please note that only translations for the languages that are included in each Bisq release are compensated at any given moment. You can learn more about it [here](translatordocumentation.md).
+Anyone can become a translator by creating a Transifex account and requesting permission to translate. Please note that only translations for the languages that are included in each Bisq release are compensated at any given moment. You can learn more about it [here](translatordocumentation.md).
 
 Each new software release contains the latest translations even though they have not been reviewed. This is done to provide the users with as complete translations as possible.
 
