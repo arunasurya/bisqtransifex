@@ -7,7 +7,7 @@
 These are basic guidelines to help Bisq translators and reviewers do their work effectively. They will be periodically updated to reflect the latest changes in the project and input from other contributors.
 
 ## Transifex project
-The Transifex project is run by a group of Bisq contributors: Transifex admins, translators and reviewers. [Transifex admins](transifexadmin.md) coordinate various activities and may also contribute as translators and/or reviewers.
+The Bisq Transifex project is run by a group of Bisq contributors: Transifex admins, translators and reviewers. [Transifex admins](transifexadmin.md) coordinate various activities and may also contribute as translators and/or reviewers.
 
 All the translations for Bisq need to go through Transifex to be evaluated and reviewed. The exceptions may be translations for videos on the Bisq YouTube channel (to be discussed further).
 
