@@ -15,7 +15,7 @@ The tasks are divided between the two Transifex admins. The admin acting in the 
     - [Translation Guidelines](translationguidelines.md)
     - [Translator Documentation](translatordocumentation.md)
 - Moderate three major communication channels: #transifex Slack channel, announcements in Transifex, Bisq forum.
-- Keep General information on [Transifex](https://www.transifex.com/bisq/bisq-desktop/settings/) up-to-date to inform new translators.
+- Keep general information on [Transifex](https://www.transifex.com/bisq/bisq-desktop/settings/) up-to-date to inform new translators.
 
 ### Secondary
 
