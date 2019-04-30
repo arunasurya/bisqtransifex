@@ -29,7 +29,7 @@ A new translator needs to show their skill by translating first. Once the qualit
 In cases where Bisq is working with a translation agency, the agency has a choice of assigning their own translators as reviewers, and one of the Transifex admins accepts that choice based on their judgment (such as evaluating past work, etc).
 
 ## Language Quality Assurance
-- If you notice a mistake in the English version, please report it by adding a comment to that particular string and tagging it as an issue. The admins will be informed of the issue and will take proper action. Also, feel free to raise the issue on the #transifex slack channel.
+- If you notice a mistake in the English version, please report it by adding a comment to that particular string and tagging it as an issue. The admins will be informed of the issue and will take proper action. Also, feel free to raise the issue on the #transifex Slack channel.
 - In the past, some strings had trailing spaces which caused some problems when updating the translations. Please make sure that there are no trailing spaces in the translated strings.
 - Once the translations have been updated in [the next release](https://github.com/bisq-network/bisq/milestones), please check the strings in the updated software.
 
