@@ -48,7 +48,6 @@ Please add the date and Transifex segment number, choose your language and indic
 TBD
 
 ## Resources
-Feel free to suggest more resources!
 
 [A guide to translation project management](https://courses.comet.ucar.edu/pluginfile.php/27060/mod_resource/content/12/GuideToTranslationManagement_V1a_02102017_final.pdf)
 
