@@ -17,7 +17,7 @@ Daily communication occurs on the #transifex Slack channel, while major announce
 ## Translators
 Anyone can become a translator by creating a [Transifex](https://www.transifex.com/bisq) account and requesting permission to translate. Please note that only translations for the languages that are included in each Bisq release are compensated at any given moment. You can learn more about it [here](translatordocumentation.md).
 
-Each new software release contains the latest translations even though they have not been reviewed. This is done to keep the software translations as up-to-date as possible.
+Each new software release contains the latest translations even though they have not been reviewed. This is done to have the software translations as complete as possible.
 
 ## Reviewers 
 Reviews involve checking the translation thoroughly against the original. Ideally, a reviewer performs reviews on someone else's translation, and not on their own. Some language teams may consist of only one active translator. In this case, several options are available:
