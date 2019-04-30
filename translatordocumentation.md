@@ -20,7 +20,7 @@ This is the current list of Bisq languages whose translations/reviews are compen
 
 - German
 - Spanish
-- Portuguese
+- Portuguese (Brazil, Portugal)
 - Russian
 - Chinese (Mandarin)
 - French
