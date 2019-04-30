@@ -27,4 +27,4 @@ Foster collaboration among translators on current and future projects by bringin
 Establish and coordinate active language teams with the members of each team collaborating closely to produce quality translations. 
 
 #### Glossary and Style Guide Initiative
-Oversee the creation of a comprehensive glossary that is consistent across all core languages and a style guide that can set standards for all translations.
+Oversee the creation of a comprehensive glossary that is consistent across all core languages, and a style guide that can set standards for all translations.
