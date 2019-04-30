@@ -10,7 +10,7 @@ The tasks are divided between the two Transifex admins. The admin acting in the 
 ### Primary
 - Create [monthly reports](https://github.com/bisq-network/roles/issues/20).
 - Update the translations for all core languages for each [new release](https://github.com/bisq-network/bisq/milestones).
-  - Inform the translators of the planned update, ideally a week before it happens, and remind them to review their strings in the software.
+  - Inform the translators of the planned update, ideally a week before it happens.
 - Provide clear and updated documentation to help translators do their work effectively.
     - [Translation Guidelines](translationguidelines.md)
     - [Translator Documentation](translatordocumentation.md)
