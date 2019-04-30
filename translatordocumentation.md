@@ -16,7 +16,7 @@ Monthly translator calls are currently being planned to bring all the interested
 
 ## Core Languages
 
-This is the current list of Bisq languages whose translations/reviews are compensated as of May 2019. The software is currently available in these languages which are updated with each new release.
+This is the current list of Bisq languages whose translations/reviews are compensated as of May 2019. The next release will contain translations of the software in these languages.
 
 - German
 - Spanish
@@ -28,7 +28,9 @@ This is the current list of Bisq languages whose translations/reviews are compen
 - Thai 
 - Vietnamese
 
-The list is based on several factors such as usage of the software by the speakers of these languages (we encode the selected language within the software as a parameter when a user opens a link to a web property of ours (e.g. bisq.network or docs.bisq.network), how complete the translation for a particular language is, translator activity level, poor competence in English among speakers of those languages, and the importance of introducing Bisq to certain countries. If there is no or a substantially decreased user interest in some of the current core languages, or no translator activity, those languages may be removed from the list. This applies especially to those languages that are not widely spoken or if their are in the Euro zone.
+The list is based on several factors such as usage of the software by the speakers of these languages (we encode the selected language within the software as a parameter when a user opens a link to a web property of ours (e.g. bisq.network or docs.bisq.network), how complete the translation for a particular language is, translator activity level, poor competence in English among speakers of those languages, and the importance of introducing Bisq to certain countries. 
+
+If there is no or a substantially decreased user interest in some of the current core languages, or no translator activity, those languages may be removed from the list. This applies especially to those languages that are not widely spoken or if their are in the Euro zone. If a language (such as Greek or Serbian) has been part of the core language list, the past work for that language is also compensated.
 
 Although we have activity in over 30 languages in the bisq-desktop project, the translation of the noncore languages is not currently compensated. This includes all past translations for those languages that have never been included in any of the Bisq releases. 
 
