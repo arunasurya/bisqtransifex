@@ -9,7 +9,7 @@ These are the guidelines to help Bisq translators and reviewers do their work ef
 ## Transifex project
 The Transifex project is run by a group of Bisq contributors: Transifex admins, translators and reviewers. [Transifex admins](transifexadmin.md) coordinate various activities and may also contribute as translators and/or reviewers.
 
-All the translations for Bisq need to go through Transifex to be evaluated and reviewed.
+All the translations for Bisq need to go through Transifex to be evaluated and reviewed. The exceptions may be translations for videos on the Bisq YouTube channel. This is open to discussion among the translators.
 
 ## Communication
 Daily communication occurs on the #transifex Slack channel, while major announcements are posted in Transifex (announcements and [team discussions](https://www.transifex.com/bisq/teams/69542/discussions/)), and on [Bisq forum](https://bisq.community/t/internationalization/1700/12) as well as Slack.
