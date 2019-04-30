@@ -24,7 +24,7 @@ Reviews involve checking the translation thoroughly against the original. Ideall
 - Reviews can be postponed till a new translator joins the project.
 - Reviews can be done by the translator him/herself if the admins or other translators trust that translator's skill.
 
-A new translator needs to show their skill by translating first. Once their translation can be assessed by the other translators, they can be granted permission to review.
+A new translator needs to show their skill by translating first. Once the quality of their work has been assessed assessed by the other translators, they can be granted permission to review.
 
 In cases where Bisq is working with a translation agency, the agency has a choice of assigning their own translators as reviewers, and one of the Transifex admins accepts that choice, based on on their judgment (such as past work, etc).
 
