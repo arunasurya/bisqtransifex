@@ -26,6 +26,8 @@ Reviews involve checking the translation thoroughly against the original. Ideall
 
 A new translator needs to show their skill by translating first. Once their translation can be assessed by the other translators, they can be granted permission to review.
 
+In cases where Bisq is working with a translation agency, the agency has a choice of assigning their own translators as reviewers, and one of the Transifex admins accepts that choice, based on on their judgment (such as past work, etc).
+
 ## Language Quality Assurance
 - If you notice a mistake in the English version, please report it by adding a comment to that particular string and tagging it as an issue. The admins will be informed of the issue and will take proper action. Also, feel free to raise the issue on the #transifex slack channel.
 - In the past, some strings had trailing spaces which caused some problems when updating the translations. Please make sure that there are no trailing spaces in the translated strings.
