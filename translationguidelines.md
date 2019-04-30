@@ -26,13 +26,6 @@ Reviews involve checking the translation thoroughly against the original. Ideall
 
 A new translator needs to show their skill by translating first. Once their translation can be assessed by the other translators, they can be granted permission to review.
 
-## Review Process
-To avoid arbitrary changes, provide more transparency and accountability as well as help reviewers justify their compensation requests, we recommend that you use the following [Review Report](https://docs.google.com/spreadsheets/d/1Y_YygGQzuQP4iMf3I7w66nUlCnP9Px0B_3XXITupB_0/edit#gid=0) when making changes to the existing translations.
-- There are separate sheets for each language.
-- If there is no sheet for your language, please go to the Template sheet, copy it and rename it accordingly.
-- After finding an issue, please add Transifex segment number, copy source and existing translation into the report and provide a new translation. Add your explanation and choose an error type (refer to the Error Type sheet for more info).
-- Having finished the review, inform the translator so that they can check you corrections and provide comments where necessary.
-
 ## Language Quality Assurance
 - If you notice a mistake in the English version, please report it by adding a comment to that particular string and tagging it as an issue. The admins will be informed of the issue and will take proper action. Also, feel free to raise the issue on the #transifex slack channel.
 - In the past, some strings had trailing spaces which caused some problems when updating the translations. Please make sure that there are no trailing spaces in the translated strings.
