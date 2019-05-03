@@ -1,6 +1,7 @@
 # Bisq Translator Calls
 
-## Call 1: May 7th
+## Call 1: May 7, 2019
+
 ### Agenda
 - New initiative: [translating the website](https://github.com/bisq-network/bisq-website/issues/173)
 - Go over Bisq Transifex documentation (arunasurya & y3v63n)
