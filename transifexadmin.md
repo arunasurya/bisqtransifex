@@ -22,11 +22,11 @@ The tasks are divided between the two Transifex admins. The admin acting in the 
 
 ### Secondary
 
-#### Regular Translator Calls
-Foster collaboration among translators on current and future projects by bringing them together in monthly translator calls. The first call is planned for the second week of May.
+#### Monthly Translator Calls
+Foster collaboration among translators on current and future projects by bringing them together in monthly translator calls.
 
 #### Transifex Language Teams
-Establish and coordinate active language teams with the members of each team collaborating closely to produce quality translations. 
+Establish and coordinate active language teams with the members of each team collaborating closely to produce quality translations. Ensure that the team structure is updated on Transifex.
 
 #### Glossary and Style Guide Initiative
 Oversee the creation of a comprehensive glossary that is consistent across all core languages, and a style guide that can set standards for all translations.
