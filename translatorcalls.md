@@ -1,6 +1,6 @@
 # Bisq Translator Calls
 
-## Call 1: May 7, 2019
+## Call 1: May 7, 2019, 13:OO - 14:00CET.
 
 ### Preliminary Agenda
 - New initiative: [translating the website](https://github.com/bisq-network/bisq-website/issues/173)
