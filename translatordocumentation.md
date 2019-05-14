@@ -43,7 +43,7 @@ Here are some guidelines for gauging your compensation request, based on the rec
 - https://github.com/bisq-network/compensation/issues/240
 - https://github.com/bisq-network/compensation/issues/241
  
-There was a lot of [discussion](https://github.com/bisq-network/compensation/issues/96) on this topic, and there is still no consensus on the rates. With time, as more translators submit their requests, a more consistent compensation range for translations and reviews will arise that the new contributors can use for assessing their compensation requests.
+There was a lot of [discussion](https://github.com/bisq-network/compensation/issues/96) on this topic, and there is still no consensus on the rates. With time, as more translators submit their requests, a more consistent compensation range for translations and reviews will arise that the new contributors can use for assessing their compensation requests. Don't forget to make a compensation request proposal in the software in that month's voting cycle.
 
 ### Details of your work
 - Please submit details of your work in your request. This is done to help the stakeholders validate your request.
