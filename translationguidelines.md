@@ -41,8 +41,10 @@ Please add queries to the [Query Tracker](https://docs.google.com/spreadsheets/d
 Please add the date and Transifex segment number, choose your language and indicate your question. Be sure to add your Transifex ID when leaving a query/answer so that we can get in touch with each other in case we need to elaborate on an issue (there's a sample query for guidance).
 
 ## Glossary
-- A glossary is needed to provide consistent translations of high frequency terms (such as transaction, private/public key, etc). 
-- This initiative is currently lead by @y3v63n, and the updates are communicated on the #transifex Slack channel and Team Discussions on Transifex.
+The purpose of the glossary is to provide consistency for the key terminology in a specific language, and to serve as a guide for new translators. This initiative is lead by @y3v63n, and the updates are communicated on the #transifex Slack channel and Team Discussions on Transifex.
+
+Currently, we have over 100 high frequency terms in English, and these should be available in all core languages. The translators are encouraged to add more terms in their own language. Generally, it is best to just add the base form of a word (e.g., a verb in infinitive, or a noun as as subject, and not as a direct/indirect object).
+
 
 ## Style Guide
 TBD
