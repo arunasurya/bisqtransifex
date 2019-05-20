@@ -6,7 +6,7 @@ The aim of the Bisq Transifex project is to produce technically accurate transla
 Currently, we have two active projects in Transifex: bisq-desktop (translation of the Bisq software) and bisq-website.
 
 ## Communication
-- Daily: #transifex Slack channel
+- Daily: #transifex Slack channel.
 - Major announcements: Transifex announcements and [team discussions](https://www.transifex.com/bisq/teams/69542/discussions/), [Bisq forum](https://bisq.community/t/internationalization/1700/12).
 
 ## New Translators
