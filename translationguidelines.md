@@ -9,7 +9,7 @@ These are basic guidelines to help Bisq translators and reviewers do their work 
 ## Transifex project
 The Bisq Transifex project is run by a group of Bisq contributors: Transifex admins, translators and reviewers. [Transifex admins](transifexadmin.md) coordinate various activities and may also contribute as translators and/or reviewers. Currently, we have one active Transifex project, bisq-desktop, to translate the Bisq software, and we have started a new project, bisq-website, to translate certain Bisq pages.
 
-All the translations for Bisq need to go through Transifex to be evaluated and reviewed. The exceptions may be translations for videos on the Bisq YouTube channel (to be discussed further).
+All the translations for Bisq need to go through Transifex to be evaluated and reviewed. The exceptions may be translations for videos on the Bisq YouTube channel (to be discussed further). Currently, we have one active project, bisq-desktop, which involves the translation of the Bisq software into nine core languages. A new project, bisq-website (translating certain Bisq pages), is under way.
 
 ## Communication
 Daily communication occurs on the #transifex Slack channel, while major announcements are posted in Transifex (announcements and [team discussions](https://www.transifex.com/bisq/teams/69542/discussions/)), and on [Bisq forum](https://bisq.community/t/internationalization/1700/12) as well as Slack.
@@ -45,8 +45,8 @@ The purpose of the glossary is to provide consistency for the key terminology in
 
 Currently, we have over 100 high frequency terms in English, and these should be available in all core languages. The translators are encouraged to add more terms in their own language. Generally, it is best to just add the base form of a word (e.g., a verb in infinitive, or a noun as as subject, and not as a direct/indirect object).
 
-## Bisq-website
-If you see, {% text %}, it is a Liquid element and shouldn't be translated.
+## Bisq-website Project
+- If you see, {% text %}, it is a Liquid element and shouldn't be translated.
 
 ## Style Guide
 TBD
