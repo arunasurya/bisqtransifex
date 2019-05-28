@@ -48,7 +48,7 @@ Here are some guidelines for gauging your compensation request, based on the rec
 - https://github.com/bisq-network/compensation/issues/241
 
 Here is a suggest range of rates, based on input from several contributors/market rates:
-0.07 - 0.10BSQ per word for translations, 0.035 - 0.5BSQ per word for reviews.
+0.07 - 0.10BSQ per word for translations, 0.035 - 0.05BSQ per word for reviews.
 
 Several factors can be considered when calculating your compensation request, such as the time you have spent translating/reviewing and the country you live in. If you live somewhere with high living expenses, you can ask for a higer rate within the range. If a certain translation required more time, you can also take that into account. Please mention these details in the request if they were factored in your compensation request.
  
