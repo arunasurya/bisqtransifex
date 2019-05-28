@@ -44,8 +44,13 @@ Unlike typical companies, Bisq aims to increase its user base in an organic, pri
 Here are some guidelines for gauging your compensation request, based on the recent requests that have been approved:
 - https://github.com/bisq-network/compensation/issues/240
 - https://github.com/bisq-network/compensation/issues/241
+
+We can start with the following range of rates and adjust them them as we get more information/feedback from the translators:
+0.07 - 0.10BSQ per word for translations, 0.035 - 0.5BSQ per word for reviews.
+
+Apart from these rates, several factors can be considered when calculating your compensation request, such as the time you have spent translating/reviewing and the country you live in. If you live somewhere with high living expenses, you can ask for a higher amount. If a certain translation required more time, you can also take that into account. Please mention these details in the request if you do so.
  
-There was a lot of [discussion](https://github.com/bisq-network/compensation/issues/96) on this topic, and there is still no consensus on the rates. With time, as more translators submit their requests, a more consistent compensation range for translations and reviews will arise that the new contributors can use for assessing their compensation requests. Several factors can be considered when calculating your compensation request, such as the time you have spent translating/reviewing and the country you live in. If you live somewhere with high living expenses, you can ask for a higher amount (please mention that in the request if you do so).
+There was a lot of [discussion](https://github.com/bisq-network/compensation/issues/96) on this topic, and there is still no consensus on the rates. With time, as more translators submit their requests, a more consistent compensation range for translations and reviews will arise that the new contributors can use for assessing their compensation requests. 
 
 Don't forget to make a compensation request proposal in the software in that month's voting cycle.
 
