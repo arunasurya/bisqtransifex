@@ -9,21 +9,24 @@ The tasks are divided between the two Transifex admins. The admin acting in the 
 
 ### Primary
 - Create [monthly reports](https://github.com/bisq-network/roles/issues/20).
-- Assign experienced translators as reviewers.
+- Accept new translators, assign translators as reviewers on Transifex.
 - Update the translations for all core languages for each [new release](https://github.com/bisq-network/bisq/milestones).
   - Inform the translators of the planned update, ideally a week before it happens.
-- Provide clear and updated documentation to help translators do their work effectively.
+- Provide clear documentation to help translators do their work effectively. Update monthly or/and per need.
     - [Translation Guidelines](translationguidelines.md)
     - [Translator Documentation](translatordocumentation.md)
 - Moderate three major communication channels: #transifex Slack channel, announcements in Transifex, Bisq forum.
-- Keep general information on [Transifex](https://www.transifex.com/bisq/bisq-desktop/settings/) up-to-date to inform new translators.
+- Keep general information in Setting on Transifex up-to-date (for all Transifex projects).
 - Keep track of issues on Transifex and coordinate the process of addressing these issues.
 - Coordinate the process of clarifying [difficult terms](https://docs.google.com/spreadsheets/d/1P4JMLrcRtSWkxfh9jG7AXkfdgdkEYwgttGgly-ercXc/edit#gid=0) by engaging developers in answering translators' questions. 
 
 ### Secondary
 
 #### Monthly Translator Calls
-Foster collaboration among translators on current and future projects by bringing them together in [monthly translator calls](translatorcalls.md).
+Host [monthly translator calls](translatorcalls.md).
+
+#### Bisq-website Project
+Coordinate the new bisq-website project on Transifex.
 
 #### Transifex Language Teams
 Establish and coordinate active language teams with the members of each team collaborating closely to produce quality translations. Ensure that the team structure is updated on Transifex.
