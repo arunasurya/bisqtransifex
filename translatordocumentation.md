@@ -52,7 +52,7 @@ Here is a suggest range of rates, based on input from several contributors/marke
 
 Several factors can be considered when calculating your compensation request, such as the time you have spent translating/reviewing and the country you live in. If you live somewhere with high living expenses, you can ask for a higer rate within the range. If a certain translation required more time, you can also take that into account. Please mention these details in the request if they were factored in your compensation request.
  
-There was a lot of [discussion](https://github.com/bisq-network/compensation/issues/96) on this topic, and there is still no consensus on the rates. With time, as more translators submit their requests, a more consistent compensation range for translations and reviews will arise. Don't forget to make a compensation request proposal in the software in that month's voting cycle.
+There was a lot of [discussion](https://github.com/bisq-network/compensation/issues/96) on this topic, and there is still no consensus on the rates. With time, as more translators submit their requests, a more consistent compensation range for translations and reviews will arise. Don't forget to make a compensation request proposal in the Bisq DAO and link your github request there.
 
 ### Details of your work
 - Please submit details of your work in your request. This is done to help the stakeholders validate your request.
