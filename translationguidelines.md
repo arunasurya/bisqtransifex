@@ -46,7 +46,10 @@ The purpose of the glossary is to provide consistency for the key terminology in
 Currently, we have over 100 high frequency terms in English, and these should be available in all core languages. The translators are encouraged to add more terms in their own language. Generally, it is best to just add the base form of a word (e.g., a verb in infinitive, or a noun as as subject, and not as a direct/indirect object).
 
 ## Bisq-website Project
-- If you see, {% text %}, it is a Liquid element and shouldn't be translated.
+- If you see `{% text %}` it is a Liquid element and should not be translated.
+- `_blank` should not be translated.
+- `&#8217;` is an apostrophe, like in `I'm`, and will appear in the software as an apostrophe.
+
 
 ## Style Guide
 TBD
