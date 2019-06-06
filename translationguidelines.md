@@ -7,7 +7,7 @@
 These are basic guidelines to help Bisq translators and reviewers do their work effectively. They will be periodically updated to reflect the latest changes in the project and input from other contributors.
 
 ## Transifex project
-The Bisq Transifex project is run by a group of Bisq contributors: Transifex admins, translators and reviewers. [Transifex admins](transifexadmin.md) coordinate various activities and may also contribute as translators and/or reviewers. Currently, we have one active Transifex project, bisq-desktop, to translate the Bisq software, and we have started a new project, bisq-website, to translate certain Bisq pages.
+The Bisq Transifex project is run by a group of Bisq contributors: Transifex admins and translators. [Transifex admins](transifexadmin.md) coordinate various activities and may also contribute as translators and/or reviewers. Currently, we have one active Transifex project, bisq-desktop, to translate the Bisq software, and we have started a new project, bisq-website, to translate certain Bisq pages.
 
 All the translations for Bisq need to go through Transifex to be evaluated and reviewed. The exceptions may be translations for videos on the Bisq YouTube channel (to be discussed further). Currently, we have one active project, bisq-desktop, which involves the translation of the Bisq software into nine core languages. A new project, bisq-website (translating certain Bisq pages), is under way.
 
