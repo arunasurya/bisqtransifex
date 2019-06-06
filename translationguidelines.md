@@ -7,9 +7,9 @@
 These are basic guidelines to help Bisq translators and reviewers do their work effectively. They will be periodically updated to reflect the latest changes in the project and input from other contributors.
 
 ## Transifex project
-The Bisq Transifex project is run by a group of Bisq contributors: Transifex admins and translators. [Transifex admins](transifexadmin.md) coordinate various activities and may also contribute as translators and/or reviewers. Currently, we have one active Transifex project, bisq-desktop, to translate the Bisq software, and we have started a new project, bisq-website, to translate certain Bisq pages.
+The Bisq Transifex project is run by a group of Bisq contributors: Transifex admins and translators. [Transifex admins](transifexadmin.md) coordinate various activities and may also contribute as translators and/or reviewers. Currently, we have one active Transifex project, #bisq-desktop, to translate the Bisq software, and we have started a new project, bisq-website, to translate certain Bisq pages.
 
-All the translations for Bisq need to go through Transifex to be evaluated and reviewed. The exceptions may be translations for videos on the Bisq YouTube channel (to be discussed further). Currently, we have one active project, bisq-desktop, which involves the translation of the Bisq software into nine core languages. A new project, bisq-website (translating certain Bisq pages), is under way.
+All the translations for Bisq need to go through Transifex to be evaluated and reviewed. The exceptions may be translations for videos on the Bisq YouTube channel (to be discussed further).
 
 ## Communication
 Daily communication occurs on the #transifex Slack channel, while major announcements are posted in Transifex (announcements and [team discussions](https://www.transifex.com/bisq/teams/69542/discussions/)), and on [Bisq forum](https://bisq.community/t/internationalization/1700/12) as well as Slack.
@@ -50,7 +50,6 @@ There are several symbols that don't need to be translated or changed. They shou
 - If you see `{% text %}` it is a Liquid element and should not be translated.
 - `_blank` should not be translated.
 - `&#8217;` is an apostrophe, like in `I'm`, and will appear in the software as an apostrophe.
-
 
 ## Style Guide
 The purpose of the style guide is to set certain translation standards for our projects. It covers the tone of the target language, style and various nuances for specific languages, and discusses how to deal with hard to translate terms such as Bitcoin or blockchain. 
