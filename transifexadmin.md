@@ -12,7 +12,8 @@ The tasks are divided between the two Transifex admins. The admin acting in the 
 - Accept new translators, assign translators as reviewers on Transifex.
 - Update the translations for all core languages for each [new release](https://github.com/bisq-network/bisq/milestones).
   - Inform the translators of the planned update, ideally a week before it happens.
-- Provide clear documentation to help translators do their work effectively. Update monthly or/and per need.
+- Provide clear documentation to help translators do their work effectively. Update monthly or/and when needed.
+    - This document
     - [Translation Guidelines](translationguidelines.md)
     - [Translator Documentation](translatordocumentation.md)
 - Moderate three major communication channels: #transifex Slack channel, announcements in Transifex, Bisq forum.
