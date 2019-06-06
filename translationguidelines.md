@@ -40,8 +40,6 @@ Please add queries to the [Bisq query tracker](https://docs.google.com/spreadshe
 
 Please add the date and Transifex segment number, choose your language and indicate your question. Be sure to add your Transifex ID when leaving a query/answer so that we can get in touch with each other in case we need to elaborate on an issue (there's a sample query for guidance).
 
-Also, the query tracker has a list of hard to translate terms. If you don't know whether to leave a certain term as it is (such as Bitcoin or P2P), translate or transliterate it, you can see how other translators approached the term, and enter your decision there.
-
 ## Glossary
 The purpose of the glossary is to provide consistency for the key terminology in a specific language, and to serve as a guide for new translators. This initiative is lead by @y3v63n, and the updates are communicated on the #transifex Slack channel and Team Discussions on Transifex.
 
@@ -55,7 +53,9 @@ There are several symbols that don't need to be translated or changed. They shou
 
 
 ## Style Guide
-TBD
+The purpose of the style guide is to set certain translation standards for our projects. It covers the tone of the target language, style and various nuances for specific languages, and discusses how to deal with hard to translate terms such as Bitcoin or blockchain. 
+
+The style guide should be available directly in Transifex in the future. At this moment, we are using the Bisq query tracker to write down a list of hard to translate terms. If you don't know whether to leave a certain term as it is, translate or transliterate it, please take a look at the tracker, see how other translators approached the term, and enter your thoughts there.
 
 ## Resources
 
