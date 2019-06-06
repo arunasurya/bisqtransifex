@@ -36,16 +36,18 @@ In cases where Bisq is working with a translation agency, the agency has a choic
 ## Difficult Terms and Queries
 Translators/reviewers might face difficulties rendering various terms/words/segments. To help address this issue, we are currently testing the following approach.
 
-Please add queries to the [Query Tracker](https://docs.google.com/spreadsheets/d/1P4JMLrcRtSWkxfh9jG7AXkfdgdkEYwgttGgly-ercXc/edit#gid=0) so we can try finding solutions collectively (some of translators/reviewers might know the answer) or, if everyone has trouble rendering them, ask the devs to explain them to us / provide synonyms/alternatives. 
+Please add queries to the [Bisq query tracker](https://docs.google.com/spreadsheets/d/1P4JMLrcRtSWkxfh9jG7AXkfdgdkEYwgttGgly-ercXc/edit#gid=0) so we can try finding solutions collectively (some of translators/reviewers might know the answer) or, if everyone has trouble rendering them, ask the devs to explain them to us / provide synonyms/alternatives. The queries will be updated weekly, so please review the answers to your questions periodically and mark them as "solved" if you are satisfied with the answers.
 
 Please add the date and Transifex segment number, choose your language and indicate your question. Be sure to add your Transifex ID when leaving a query/answer so that we can get in touch with each other in case we need to elaborate on an issue (there's a sample query for guidance).
+
+Also, the query racker has a list of hard to translate terms. If you don't know whether to leave a certain term as it is (such as Bitcoin or P2P), translate or transliterate it, you can see how other translators approached the term, and enter your decision there.
 
 ## Glossary
 The purpose of the glossary is to provide consistency for the key terminology in a specific language, and to serve as a guide for new translators. This initiative is lead by @y3v63n, and the updates are communicated on the #transifex Slack channel and Team Discussions on Transifex.
 
 Currently, we have over 100 high frequency terms in English, and these should be available in all core languages. The translators are encouraged to add more terms in their own language. Generally, it is best to just add the base form of a word (e.g., a verb in infinitive, or a noun as as subject, and not as a direct/indirect object).
 
-## Bisq-website Project
+## Bisq-Website Transifex Project
 There are several symbols that don't need to be translated or changed. They should be market in Transifex as "notranslate". Here are a few examples.
 - If you see `{% text %}` it is a Liquid element and should not be translated.
 - `_blank` should not be translated.
