@@ -3,9 +3,9 @@
 ## Current Projects
 The aim of the Bisq Transifex project is to produce technically accurate translations of the Bisq software and website from English into core languages (where we have a strong user base or plan to have one).
 
-Currently, we have one active project, bisq-desktop, which involves the translation of the Bisq software into nine core languages (see below). 
+Currently we have one ongoing project in Transifex, bisq-desktop, which involves the translation of the Bisq software into nine core languages (see below). 
 
-A new project, bisq-website (translating certain Bisq pages), [is under way](https://docs.google.com/spreadsheets/d/1XsqW25NagRZEo8fPb4Sj-8Ov6WFX9Os94IS9UPiE_Ak/edit#gid=0). Some pages are already available on Transifex.
+We also started a new project, bisq-website, in May.
 
 ## Communication
 - Daily: #transifex Slack channel.
