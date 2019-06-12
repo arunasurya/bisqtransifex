@@ -1,6 +1,6 @@
 # Transifex Admin
 
-The Transifex admin role is shared by two contributors, one acting in the primary role, and the other acting in the secondary role. This is done to ensure a smooth workflow. The current transifex admins as of April 2019 are @ripcurlx and @arunasurya.
+The Transifex admin role is shared by two contributors, one acting in the primary role, and the other acting in the secondary role. This is done to ensure a smooth workflow.
 
 Any Bisq contributor who has been an active translator and reviewer, and has worked closely with the current admins in coordinating the project, can become an admin once the position is open.
 
