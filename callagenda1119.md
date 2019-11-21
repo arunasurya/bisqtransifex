@@ -17,4 +17,6 @@
       - Mediation and arbitration
     - Account aging
     - Account signing (the trusted network)
+
+- General strategies to translate important updates
     
