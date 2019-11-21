@@ -7,9 +7,10 @@
     - bisq subtitles
     - bisq-website
     
-- Brief review of the Translator Documentation
+- Brief review of the Translator Documentation (rates, etc)
 
 - Communicating the new trading protocol (steps, progress, feedback)
+    - Trading rules and dispute resolution
     - Account aging
-    - Account signing (the network of trusted payment accounts)
-    - Mediation & arbitration
+    - Account signing (the trusted network)
+    
