@@ -11,5 +11,5 @@
 
 - Communicating the new Bisq version
     - Account aging
-    - Account signing
+    - Account signing (trusted network)
     - Mediation
