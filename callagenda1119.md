@@ -6,8 +6,7 @@
     - bisq-desktop
     - bisq subtitles
     - bisq-website
-        - current languages
-        - translating documentation (which? technical aspects)
+      - documentation needed to translated (https://docs.bisq.network/)
     
 - Brief review of the Translator Documentation (rates, etc)
 
