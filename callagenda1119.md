@@ -15,6 +15,7 @@
     - Trading rules and dispute resolution
       - Trader chat
       - Mediation and arbitration
+      - Time-locked transaction
     - Account aging
     - Account signing (the trusted network)
 
