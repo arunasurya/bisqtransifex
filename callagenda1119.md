@@ -2,11 +2,14 @@
 
 ### Agenda
 
-- An overview of all Transifex projects
+- Status review of all Transifex projects
     - bisq-desktop
     - bisq subtitles
     - bisq-website
     
 - Brief review of the Translator Documentation
 
-- Translating documentation/communicating major changes in Bisq
+- Communicating the new Bisq version
+    - Account aging
+    - Account signing
+    - Mediation
