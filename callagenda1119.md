@@ -9,7 +9,7 @@
     
 - Brief review of the Translator Documentation
 
-- Communicating the new Bisq version
+- Communicating the new trading protocol (steps, progress, feedback)
     - Account aging
-    - Account signing (trusted network)
-    - Mediation
+    - Account signing (the network of trusted payment accounts)
+    - Mediation & arbitration
