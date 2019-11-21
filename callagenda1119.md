@@ -11,6 +11,8 @@
 
 - Communicating the new trading protocol (steps, progress, feedback)
     - Trading rules and dispute resolution
+      - Trader chat
+      - Mediation and arbitration
     - Account aging
     - Account signing (the trusted network)
     
