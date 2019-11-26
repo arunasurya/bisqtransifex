@@ -1,15 +1,17 @@
 # Bisq Transifex Project - Translator Documentation
 
 ## Current Projects
-The aim of the Bisq Transifex project is to produce technically accurate translations of the Bisq software and website from English into core languages (where we have a strong user base or plan to have one).
+The aim of the Bisq Transifex project is to produce technically accurate and up-to-date translations of the Bisq software, website and other relevant sites from English into certain languages. The most important part of the project is bisq-desktop.
 
-Currently we have one ongoing project in Transifex, bisq-desktop, which involves the translation of the Bisq software into nine core languages (see below). 
-
-We also started a new project, [bisq-website](https://github.com/bisq-network/bisq-website/issues/173#issuecomment-499150319), in May.
+As of November 2019, we have three projects in Transifex: 
+- bisq-desktop, which involves the translation of the Bisq software 
+- bisq-website, which involves translating the main Bisq pages
+- Bisq Subtitles, which produces translations for some of the Bisq videos
 
 ## Communication
-- Daily: #transifex Slack channel.
-- Major announcements: Transifex announcements and [team discussions](https://www.transifex.com/bisq/teams/69542/discussions/), [Bisq forum](https://bisq.community/t/internationalization/1700/12).
+- Daily: #transifex channel on Keybase. We have switched from Slack to Keybase. Major announcements will still be made on both channels but daily interactions take place primarily on Keybase.
+
+- Major announcements: Slack, Keybase, Transifex [team discussions](https://www.transifex.com/bisq/teams/69542/discussions/), [Bisq forum](https://bisq.community/t/internationalization/1700/12).
 
 ## New Translators
 Anyone is welcome to become a translator by creating an account on [Transifex](https://www.transifex.com/bisq) and requesting permission to translate. Please note that although we welcome your contributions in a language of your choice, currently only translations for the core languages, i.e.,  those in the current release, are being compensated. The list can change, depending on the demand among users in a specific language and feedback from other contributors.
@@ -21,7 +23,9 @@ Ideally, each language team has at **least two translators** who work closely wi
 Monthly translator calls are currently being planned to bring all the interested translators together to share ideas, experiences and discuss various aspects of the project. These calls will be coordinated and moderated by one of the Transifex admins.
 
 ## Core Languages
-The Bisq software is available in these languages, apart from English:
+Certain languages are given priority which makes them core languages. This means that the desktop app and crucial information about the app is available in these languages. 
+
+The Bisq software is available in these languages, apart from English (TBD by December 2019):
 - German
 - Spanish
 - Portuguese (Brazil, Portugal)
