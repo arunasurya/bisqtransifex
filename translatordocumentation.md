@@ -6,7 +6,7 @@ The aim of the Bisq Transifex project is to produce technically accurate and up-
 As of November 2019, we have three projects in Transifex: 
 - bisq-desktop, which involves the translation of the Bisq software 
 - bisq-website, which involves translating the main Bisq pages
-- Bisq Subtitles, which produces translations for some of the Bisq videos
+- Bisq Subtitles, which produces subtitles for some of the Bisq videos
 
 ## Communication
 - Daily: #transifex channel on Keybase. We have switched from Slack to Keybase. Major announcements will still be made on both channels but daily interactions take place primarily on Keybase.
