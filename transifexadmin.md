@@ -16,7 +16,7 @@ The tasks are divided between the two Transifex admins. The admin acting in the 
     - This document
     - [Translation Guidelines](translationguidelines.md)
     - [Translator Documentation](translatordocumentation.md)
-- Moderate three major communication channels: #transifex Slack channel, announcements in Transifex, Bisq forum.
+- Moderate three major communication channels: #transifex keybase channel, announcements in Transifex, Bisq forum.
 - Keep general information in Setting on Transifex up-to-date (for all Transifex projects).
 - Keep track of issues on Transifex and coordinate the process of addressing these issues.
 - Coordinate the process of clarifying [difficult terms](https://docs.google.com/spreadsheets/d/1P4JMLrcRtSWkxfh9jG7AXkfdgdkEYwgttGgly-ercXc/edit#gid=0) by engaging developers in answering translators' questions. 
@@ -26,8 +26,6 @@ The tasks are divided between the two Transifex admins. The admin acting in the 
 #### Monthly Translator Calls
 Host [monthly translator calls](translatorcalls.md).
 
-#### Bisq-website Project
-Coordinate the new bisq-website project on Transifex.
 
 #### Transifex Language Teams
 Establish and coordinate active language teams with the members of each team collaborating closely to produce quality translations. Ensure that the team structure is updated on Transifex.
