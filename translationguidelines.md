@@ -7,12 +7,7 @@
 These are basic guidelines to help Bisq translators and reviewers do their work effectively. They will be periodically updated to reflect the latest changes in the project and input from other contributors.
 
 ## Transifex project
-The Bisq Transifex project is run by a group of Bisq contributors: Transifex admins and translators. [Transifex admins](transifexadmin.md) coordinate various activities and may also contribute as translators and/or reviewers. Currently, we have one active Transifex project, #bisq-desktop, to translate the Bisq software, and we have started a new project, bisq-website, to translate certain Bisq pages.
-
-All the translations for Bisq need to go through Transifex to be evaluated and reviewed. The exceptions may be translations for videos on the Bisq YouTube channel (to be discussed further).
-
-## Communication
-Daily communication occurs on the #transifex Slack channel, while major announcements are posted in Transifex (announcements and [team discussions](https://www.transifex.com/bisq/teams/69542/discussions/)), and on [Bisq forum](https://bisq.community/t/internationalization/1700/12) as well as Slack.
+The Bisq Transifex project is run by a group of Bisq contributors: Transifex admins and translators. [Transifex admins](transifexadmin.md) coordinate various activities and may also contribute as translators and/or reviewers. Currently, we have three Transifex projects: bisq-desktop, bisq-website and Bisq Subtitles. Daily communication occurs on the #transifex channel on [keybase]( https://keybase.io/team/bisq).
 
 ## Translators
 Anyone can become a translator by creating a [Transifex](https://www.transifex.com/bisq) account and requesting permission to translate. Please note that only translations for the languages that are included in each Bisq release are compensated at any given moment. You can learn more about it [here](translatordocumentation.md).
