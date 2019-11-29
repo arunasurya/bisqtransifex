@@ -8,8 +8,6 @@ We currently have three projects in [Transifex](https://www.transifex.com/bisq/)
 - bisq-website, which involves translating Bisq pages that are most relevant for users
 - Bisq Subtitles, where translators produce subtitles for some of the Bisq videos
 
-The Bisq app is currently available in English, German, Spanish, French, Portuguese (Brazil and Portugal), Russian, Chinese (Mandarin), Japanese, Thai, Vietnamese and Persian. These are core languages where translator activity is compensated.
-
 ## Communication
 - Daily: #transifex channel on Keybase. We have switched from Slack to Keybase. Major announcements will still be made on both channels but daily interactions take place primarily on Keybase.
 
@@ -24,13 +22,16 @@ Anyone is welcome to become a translator by creating an account on [Transifex](h
 Ideally, each language team has at **least two translators** who work closely with each other and contribute on a regular basis. While one translator can focus on translation, the other can perform reviews of these translations, and vice versa. You can find more guidelines on translations and reviews [here](translationguidelines.md). The project is coordinated by the [Transifex admins](transifexadmin.md) and active translators.
 
 ## Core Languages
-Certain languages are given priority which makes them core languages. This means that the desktop app and crucial information about the app is available in these languages.
 
-Only translations/reviews in these core languages are compensated as of this moment. The list is based on several factors such as usage of the software by the speakers of these languages (we encode the selected language within the software as a parameter when a user opens a link to a web property of ours (e.g. bisq.network or docs.bisq.network), how complete the translation for a particular language is, translator activity level, poor competence in English among speakers of those languages, and the importance of introducing Bisq to certain countries. 
+The Bisq app is currently available in English, German, Spanish, French, Portuguese (Brazil and Portugal), Russian, Chinese (Mandarin), Japanese, Thai, Vietnamese and Persian.
 
-If there is no or a substantially decreased user interest in some of the current core languages, or no translator activity, those languages may be removed from the list. This applies especially to those languages that are not widely spoken or if they are in the European Union. If a language (such as Greek or Serbian) has been part of the core language list and was recently removed, the past work for that language is compensated.
+Althugh we have over 30 languages in our Transifex projects, Bisq is not able to compensate the translations for all these languages. Only translations/reviews in these core languages are compensated. The main reason for this policy is that we need to ensure that our users get most up-to-date and complete translations of the sofware as well as relevant information on the Bisq sites to be able to use the software.
 
-Although we have activity in over 30 languages in the bisq-desktop project, the translation of the noncore languages is not currently compensated. This includes all past translations for those languages that have never been included in any of the Bisq releases. 
+The core language list is based on several factors such as usage of the software by the speakers of these languages (we encode the selected language within the software as a parameter when a user opens a link to a web property of ours (e.g. bisq.network or docs.bisq.network)), how complete the translation for a particular language is, translator activity level, poor competence in English among speakers of those languages, and the importance of introducing Bisq to certain countries. 
+
+If there is no or a substantially decreased user interest in some of the current core languages, or no translator activity, those languages may be removed from the list. This applies especially to those languages that are not widely spoken or if they are in the European Union. If a language (such as Greek or Serbian) has been part of the core language list and was recently removed, the past work for that language is still compensated.
+
+Although we have activity in over 30 languages in the bisq-desktop project, the translation of the noncore languages is not currently compensated. This includes all past translations for those languages that have never been included in any of the Bisq releases.
 
 That being said, this is not a final list, and it is subject to change if there is a demand for a new language or if a good reason is given to include that language. A translator is welcome to create a [proposal](https://docs.bisq.network/proposals.html) to be voted on in the Bisq DAO to add a language. A new language is most likely to be accepted if there is an active effort to create a community and user base in that language, e.g., via meetups, [liquidity weeks](https://github.com/bisq-network/compensation/issues/62), forums, etc. If there is an increased interest in a language, say Italian, and if it is accepted to the core list, then the past translations can be compensated.
 
