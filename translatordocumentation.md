@@ -4,7 +4,7 @@
 The aim of the Bisq Transifex project is to produce technically accurate and up-to-date translations of the Bisq dektop application, relevant Bisq sites and documentation from English into certain languages.
 
 We currently have three projects in [Transifex](https://www.transifex.com/bisq/): 
-- bisq-desktop, the most important part of the project which involves the translation of the Bisq software 
+- bisq-desktop, the most important part of the project which involves translation of the Bisq software 
 - bisq-website, which involves translating Bisq pages that are most relevant for users
 - Bisq Subtitles, where translators produce subtitles for some of the Bisq videos
 
@@ -15,14 +15,13 @@ The Bisq app is currently available in English, German, Spanish, French, Portugu
 
 - Major announcements: Slack, Keybase, Transifex [team discussions](https://www.transifex.com/bisq/teams/69542/discussions/), [Bisq forum](https://bisq.community/t/internationalization/1700/12).
 
+- The Transifex team meets online once a month [monthly translator calls](https://www.youtube.com/playlist?list=PLFH5SztL5cYPPMIBM22SbqrJ01AXTeVY_).
+
 ## New Translators
-Anyone is welcome to become a translator by creating an account on [Transifex](https://www.transifex.com/bisq) and requesting permission to translate. Please note that although we welcome your contributions in a language of your choice, currently only translations for the core languages, i.e.,  those in the current release, are being compensated. The list can change, depending on the demand among users in a specific language and feedback from other contributors.
+Anyone is welcome to become a translator by creating an account on [Transifex](https://www.transifex.com/bisq) and requesting permission to translate. Please note that although we welcome your contributions in a language of your choice, currently only translations for the core languages are being compensated. The list can change, depending on the demand among users in a specific language and feedback from other contributors.
 
 ## Team Structure
-Ideally, each language team has at **least two translators** who work closely with each other and contribute on a regular basis. While one translator can focus on translation, the other can perform reviews of these translations, and vice versa. You can find more guidelines on translations and reviews [here](translationguidelines.md). The project is coordinated by the [Transifex admins](transifexadmin.md) and active translators. 
-
-## Translator Collaboration
-Monthly translator calls are currently being planned to bring all the interested translators together to share ideas, experiences and discuss various aspects of the project. These calls will be coordinated and moderated by one of the Transifex admins.
+Ideally, each language team has at **least two translators** who work closely with each other and contribute on a regular basis. While one translator can focus on translation, the other can perform reviews of these translations, and vice versa. You can find more guidelines on translations and reviews [here](translationguidelines.md). The project is coordinated by the [Transifex admins](transifexadmin.md) and active translators.
 
 ## Core Languages
 Certain languages are given priority which makes them core languages. This means that the desktop app and crucial information about the app is available in these languages.
