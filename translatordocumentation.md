@@ -1,12 +1,14 @@
 # Bisq Transifex Project - Translator Documentation
 
 ## Current Projects
-The aim of the Bisq Transifex project is to produce technically accurate and up-to-date translations of the Bisq software, website and other relevant sites from English into certain languages. The most important part of the project is bisq-desktop.
+The aim of the Bisq Transifex project is to produce technically accurate and up-to-date translations of the Bisq dektop application, relevant Bisq sites and documentation from English into certain languages.
 
-As of November 2019, we have three projects in Transifex: 
-- bisq-desktop, which involves the translation of the Bisq software 
-- bisq-website, which involves translating the main Bisq pages
-- Bisq Subtitles, which produces subtitles for some of the Bisq videos
+We currently have three projects in [Transifex](https://www.transifex.com/bisq/): 
+- bisq-desktop, the most important part of the project which involves the translation of the Bisq software 
+- bisq-website, which involves translating Bisq pages that are most relevant for users
+- Bisq Subtitles, where translators produce subtitles for some of the Bisq videos
+
+The Bisq app is currently available in English, German, Spanish, French, Portuguese (Brazil and Portugal), Russian, Chinese (Mandarin), Japanese, Thai, Vietnamese and Persian. These are core languages where translator activity is compensated.
 
 ## Communication
 - Daily: #transifex channel on Keybase. We have switched from Slack to Keybase. Major announcements will still be made on both channels but daily interactions take place primarily on Keybase.
@@ -23,18 +25,7 @@ Ideally, each language team has at **least two translators** who work closely wi
 Monthly translator calls are currently being planned to bring all the interested translators together to share ideas, experiences and discuss various aspects of the project. These calls will be coordinated and moderated by one of the Transifex admins.
 
 ## Core Languages
-Certain languages are given priority which makes them core languages. This means that the desktop app and crucial information about the app is available in these languages. 
-
-The Bisq software is available in these languages, apart from English (TBD by December 2019):
-- German
-- Spanish
-- Portuguese (Brazil, Portugal)
-- Russian
-- Chinese (Mandarin)
-- French
-- Persian
-- Thai 
-- Vietnamese
+Certain languages are given priority which makes them core languages. This means that the desktop app and crucial information about the app is available in these languages.
 
 Only translations/reviews in these core languages are compensated as of this moment. The list is based on several factors such as usage of the software by the speakers of these languages (we encode the selected language within the software as a parameter when a user opens a link to a web property of ours (e.g. bisq.network or docs.bisq.network), how complete the translation for a particular language is, translator activity level, poor competence in English among speakers of those languages, and the importance of introducing Bisq to certain countries. 
 
