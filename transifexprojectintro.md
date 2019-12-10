@@ -23,7 +23,7 @@ Anyone is welcome to become a translator by creating an account on [Transifex](h
 More experienced translators are given access to review translations. You can find more guidelines on translations and reviews [here](translationguidelines.md).
 
 ## Coordinators
-Coordinators are translators who assist assist other translators and reviewers with their work on a daily basis. They work closely with admins to ensure a smooth workflow.
+Coordinators are translators who assist other translators and reviewers with their work on a daily basis. They work closely with admins to ensure a smooth workflow.
 
 ## Admins
 There are two admins in the team, one acting in the primary role, and the other in the secondary role. This is done to ensure a smooth workflow. Any Bisq contributor who has been an active translator/reviewer and has worked closely with current admins in can become an admin once the position is open.
