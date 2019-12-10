@@ -1,4 +1,4 @@
-# Introductin to Bisq Transifex Project
+# Introduction to Bisq Transifex Project
 
 ## Current Projects
 The aim of the Bisq Transifex project is to produce technically accurate and up-to-date translations of the Bisq desktop application and relevant Bisq sites from English into other languages.
