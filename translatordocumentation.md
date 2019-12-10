@@ -8,12 +8,13 @@ All translations are done on [Transifex](https://www.transifex.com/bisq/), and w
 - bisq-website, which focuses on translating Bisq pages that provide important information about the app to users.
 - Bisq Subtitles, which provides subtitles for some of Bisq videos on [YouTube](https://www.youtube.com/c/bisq-network).
 
+## The team
+
+
 ## Communication
 - Daily: #transifex channel on Keybase.
-
-- Major announcements: Slack, Keybase, Transifex [team discussions](https://www.transifex.com/bisq/teams/69542/discussions/), [Bisq forum](https://bisq.community/t/internationalization/1700/12).
-
-- The Transifex team meets online once a month [monthly translator calls](https://www.youtube.com/playlist?list=PLFH5SztL5cYPPMIBM22SbqrJ01AXTeVY_).
+- Major announcements: Keybase, Transifex [team discussions](https://www.transifex.com/bisq/teams/69542/discussions/), [Bisq forum](https://bisq.community/t/internationalization/1700/12).
+- The Transifex team meets online once a month via [monthly translator calls](https://www.youtube.com/playlist?list=PLFH5SztL5cYPPMIBM22SbqrJ01AXTeVY_).
 
 ## New Translators
 Anyone is welcome to become a translator by creating an account on [Transifex](https://www.transifex.com/bisq) and requesting permission to translate. Please note that although we welcome your contributions in a language of your choice, currently only translations for the core languages are being compensated. The list can change, depending on the demand among users in a specific language and feedback from other contributors.
