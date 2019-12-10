@@ -17,7 +17,7 @@ To add a language to the core group, a translator needs to submit a proposal to 
 The Transifex team consists of translators, reviewers, coordinators and admins.
 
 ### Translators
-Anyone is welcome to become a translator by creating an account on [Transifex](https://www.transifex.com/bisq) and requesting permission to translate. Please note that although we welcome your contributions in a language of your choice, currently only translations for core languages are being compensated. Ideally, each language team has at **least two translators** who work closely with each other on a regular basis. While one translator can focus on translation, the other can perform reviews of these translations, and vice versa.
+Anyone is welcome to become a translator by creating an account on [Transifex](https://www.transifex.com/bisq) and requesting permission to translate. Please note that although we welcome your contributions in a language of your choice, currently only translations for core languages are being compensated.
 
 ### Reviewers
 Once a translator has contributed on a consistent basis and has provided quality translations they can become reviewers. You can find more guidelines on translations and reviews [here](translationguidelines.md).
