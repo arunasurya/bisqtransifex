@@ -1,15 +1,15 @@
 # Bisq Transifex Project - Translator Documentation
 
 ## Current Projects
-The aim of the Bisq Transifex project is to produce technically accurate and up-to-date translations of the Bisq dektop application, relevant Bisq sites and documentation from English into certain languages.
+The aim of the Bisq Transifex project is to produce technically accurate and up-to-date translations of the Bisq desktop application and relevant Bisq sites from English into other languages.
 
-We currently have three projects in [Transifex](https://www.transifex.com/bisq/): 
-- bisq-desktop, the most important part of the project which involves translation of the Bisq software 
-- bisq-website, which involves translating Bisq pages that are most relevant for users
-- Bisq Subtitles, where translators produce subtitles for some of the Bisq videos
+All translations are done on [Transifex](https://www.transifex.com/bisq/), and we currently have three projects there:
+- #bisq-desktop, the most crucial part of the project which involves translation of the Bisq software. 
+- bisq-website, which focuses on translating Bisq pages that provide important information about the app to users.
+- Bisq Subtitles, which provides subtitles for some of Bisq videos on [YouTube](https://www.youtube.com/c/bisq-network).
 
 ## Communication
-- Daily: #transifex channel on Keybase. We have switched from Slack to Keybase. Major announcements will still be made on both channels but daily interactions take place primarily on Keybase.
+- Daily: #transifex channel on Keybase.
 
 - Major announcements: Slack, Keybase, Transifex [team discussions](https://www.transifex.com/bisq/teams/69542/discussions/), [Bisq forum](https://bisq.community/t/internationalization/1700/12).
 
