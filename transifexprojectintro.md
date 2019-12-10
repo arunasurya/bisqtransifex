@@ -20,13 +20,13 @@ The Transifex team consists of translators, reviewers, coordinators and admins.
 Anyone is welcome to become a translator by creating an account on [Transifex](https://www.transifex.com/bisq) and requesting permission to translate. Please note that although we welcome your contributions in a language of your choice, currently only translations for core languages are being compensated. Ideally, each language team has at **least two translators** who work closely with each other on a regular basis. While one translator can focus on translation, the other can perform reviews of these translations, and vice versa.
 
 ### Reviewers
-More experienced translators are given access to review translations. You can find more guidelines on translations and reviews [here](translationguidelines.md).
+Once a translator has contributed on a consistent basis and has provided quality translations they can become reviewers. You can find more guidelines on translations and reviews [here](translationguidelines.md).
 
 ## Coordinators
-Coordinators are translators who assist other translators and reviewers with their work on a daily basis. They work closely with admins to ensure a smooth workflow.
+Each language team has a coordinator who can assist other translators and reviewers on a daily basis. Coordinators work closely with admins to ensure a smooth workflow. 
 
 ## Admins
-There are two admins in the team, one acting in the primary role, and the other in the secondary role. This is done to ensure a smooth workflow. Any Bisq contributor who has been an active translator/reviewer and has worked closely with current admins in can become an admin once the position is open.
+There are two admins in the team, one acting in the primary role, and the other in the secondary role. Any coordinator who has contributed on a regular basis can become an admin.
 
 ## Communication
 - Daily: #transifex channel on Keybase.
