@@ -6,4 +6,4 @@ If you are interested in contributing to Bisq via translations, you can find rel
 - [Translation Guidelines](translationguidelines.md)
 - [Transifex Admin Role](transifexadmin.md)
 - [Compensation](compensation.md)
-- [Language Proposals](proposals.md)
+- [Language Proposals](languageproposals.md)
