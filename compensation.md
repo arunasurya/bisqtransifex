@@ -10,7 +10,8 @@ We use standard rates: 0.07BSQ per word for translations, 0.035BSQ per word for 
 In order to be compensated for your work, you need to submit a compensation request in Bisq DAO. Please submit details of your work in the request. This is done to help the stakeholders validate your request.
 
 ## Translators
-- Choose among filters *status: translated*, pick your name/nick in *users: translator*, and the translation period in *date: translated after/before* to specify the translation work to be compensated.
+- In Transifex, choose among filters *status: translated*
+- Pick your name/nick in *users: translator*, and the translation period in *date: translated after/before* to specify the translation work to be compensated.
 
 ## Reviewers
 - Use *status: reviewed*, *users: reviewer*.
