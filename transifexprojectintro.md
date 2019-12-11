@@ -32,3 +32,6 @@ There are two admins in the team, one acting in the primary role, and the other 
 - Daily: #transifex channel on Keybase.
 - Major announcements: Keybase, Transifex [team discussions](https://www.transifex.com/bisq/teams/69542/discussions/), [Bisq forum](https://bisq.community/t/internationalization/1700/12).
 - The Transifex team meets online once a month via [monthly translator calls](https://www.youtube.com/playlist?list=PLFH5SztL5cYPPMIBM22SbqrJ01AXTeVY_).
+
+## Compensation
+Translators and reviewers can submit their compensation requests for their work in the following Bisq DAO cycle. Here are [the guidelines](compensation.md) for submitting a compensation request.
