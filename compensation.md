@@ -1,21 +1,20 @@
+# Compensation
 
-## Compensation Requests
-Here are some guidelines for gauging your compensation request, based on the recent requests that have been approved:
-- https://github.com/bisq-network/compensation/issues/240
-- https://github.com/bisq-network/compensation/issues/241
 
-As of this moment, we are using the following rates for translations, based on the past compensation requests:
-0.07BSQ per word for translations, 0.035BSQ per word for reviews.
- 
-There was a lot of [discussion](https://github.com/bisq-network/compensation/issues/96) on this topic, and there is still no consensus on the rates. With time, as more translators submit their requests, a more consistent compensation range for translations and reviews will arise. Don't forget to make a compensation request proposal in the Bisq DAO and link your github request there.
 
-### Details of your work
-- Please submit details of your work in your request. This is done to help the stakeholders validate your request.
+## Rates
+
+Currently, we are using the following rates for translations: 0.07BSQ per word for translations, 0.035BSQ per word for reviews.
+
+## Process
+
+Once you have done translating/reviewing, you can submit a compensation request. Here is how you do it:
+- Please submit details of your work in the request. This is done to help the stakeholders validate your request.
 - For translators:
   - Choose among filters *status: translated*, pick your name/nick in *users: translator*, and the translation period in *date: translated after/before* to specify the translation work to be compensated.
 - For reviewers: use *status: reviewed*, *users: reviewer*.
 - After that, tick the box right to the filter field to select all strings, and you will see the total wordcount for the selected strings.
-- Please take snapshots of all your work for a certain period and include them in your compensation request. 
+- Please take screenshots of all your work for a certain period and include them in your compensation request. 
 - Here is an example of screenshots for reviewing a translation.
  
   
