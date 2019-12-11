@@ -7,7 +7,7 @@ Currently, translations/reviews for the following languages are compensated: Spa
 We use standard rates: 0.07BSQ per word for translations, 0.035BSQ per word for reviews. If you think that your language should have different rates, please raise this issue with your coordinator and admins.
 
 ## Process
-Please submit details of your work in the request. This is done to help the stakeholders validate your request.
+In order to be compensated for your work, you need to submit a compensation request in Bisq DAO. Please submit details of your work in the request. This is done to help the stakeholders validate your request.
 
 ## Translators
 - Choose among filters *status: translated*, pick your name/nick in *users: translator*, and the translation period in *date: translated after/before* to specify the translation work to be compensated.
