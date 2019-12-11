@@ -14,7 +14,7 @@ Each language team has a coordinator who can assist other translators and review
 ### Admins
 There are two admins in the team, one acting in the primary role, and the other in the secondary role. Any coordinator who has contributed on a regular basis can become an admin.
 
-#### Responsiblities
+#### Admin Responsiblities
 Admin responsiblities are divided between the two Transifex admins. The admin acting in the primary role coordinates these activities to ensure that all the primary tasks are done in a timely manner. Here are some of the most important tasks:
 
 - Create [monthly reports](https://github.com/bisq-network/roles/issues/20).
