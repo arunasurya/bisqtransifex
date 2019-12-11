@@ -1,18 +1,19 @@
 # Compensation
 
-
+Currently, translations/reviews for the following languages is compensated: Spanish, Portuguese (Brazil and Portugal), French, Russian, German, Chinese (Mandarin and traditional), Japanese, Persian, Thai and Vietnamese.
 
 ## Rates
 
-Currently, we are using the following rates for translations: 0.07BSQ per word for translations, 0.035BSQ per word for reviews.
+We use standard rates: 0.07BSQ per word for translations, 0.035BSQ per word for reviews. If you think that your language should have different rates, please raise this issue with your coordinator and admins.
 
 ## Process
+Please submit details of your work in the request. This is done to help the stakeholders validate your request.
 
-Once you have done translating/reviewing, you can submit a compensation request. Here is how you do it:
-- Please submit details of your work in the request. This is done to help the stakeholders validate your request.
-- For translators:
-  - Choose among filters *status: translated*, pick your name/nick in *users: translator*, and the translation period in *date: translated after/before* to specify the translation work to be compensated.
-- For reviewers: use *status: reviewed*, *users: reviewer*.
+## Translators
+- Choose among filters *status: translated*, pick your name/nick in *users: translator*, and the translation period in *date: translated after/before* to specify the translation work to be compensated.
+
+## Reviewers
+- Use *status: reviewed*, *users: reviewer*.
 - After that, tick the box right to the filter field to select all strings, and you will see the total wordcount for the selected strings.
 - Please take screenshots of all your work for a certain period and include them in your compensation request. 
 - Here is an example of screenshots for reviewing a translation.
