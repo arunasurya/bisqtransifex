@@ -22,10 +22,10 @@ Anyone is welcome to become a translator by creating an account on [Transifex](h
 ### Reviewers
 Those translators who have been regular contributors and have shown solid knowledge of their language are given access to review. You can find more guidelines on translations and reviews [here](translationguidelines.md).
 
-## Coordinators
+### Coordinators
 Each language team has a coordinator who can assist other translators and reviewers on a daily basis. Coordinators work closely with admins to ensure a smooth workflow. 
 
-## Admins
+### Admins
 There are two admins in the team, one acting in the primary role, and the other in the secondary role. Any coordinator who has contributed on a regular basis can become an admin.
 
 ## Communication
