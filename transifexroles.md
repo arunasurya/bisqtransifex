@@ -1,4 +1,6 @@
-# Transifex Admin
+# Transifex Roles
+
+## Admins
 
 The Transifex admin role is shared by two contributors, one acting in the primary role, and the other acting in the secondary role. This is done to ensure a smooth workflow.
 
