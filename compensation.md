@@ -1,6 +1,6 @@
 # Compensation
 
-Currently, translations/reviews for the following languages is compensated: Spanish, Portuguese (Brazil and Portugal), French, Russian, German, Chinese (Mandarin and traditional), Japanese, Persian, Thai and Vietnamese.
+Currently, translations/reviews for the following languages are compensated: Spanish, Portuguese (Brazil and Portugal), French, Russian, German, Chinese (Mandarin and traditional), Japanese, Persian, Thai and Vietnamese.
 
 ## Rates
 
