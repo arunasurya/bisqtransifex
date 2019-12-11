@@ -1,7 +1,13 @@
 
-# A guideline for language proposals
+# Language proposals
 
-Althugh we have over 30 languages in our Transifex projects, Bisq is not able to compensate the translations for all these languages. Only translations/reviews in these core languages are compensated. The main reason for this policy is that we need to ensure that our users get most up-to-date and complete translations of the sofware as well as relevant information on the Bisq sites to be able to use the software.
+Currently, 
+
+If you believe that your language should become part of the core group, you can submit a proposal which will be voted on by all stakeholders in the following Bisq DAO cycle.
+
+## Process
+
+Please provide solid reasons for adding your language. These can include:
 
 The core language list is based on several factors such as usage of the software by the speakers of these languages (we encode the selected language within the software as a parameter when a user opens a link to a web property of ours (e.g. bisq.network or docs.bisq.network)), how complete the translation for a particular language is, translator activity level, poor competence in English among speakers of those languages, and the importance of introducing Bisq to certain countries. 
 
