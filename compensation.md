@@ -11,7 +11,7 @@ In order to be compensated for your work, you need to submit a compensation requ
 
 ### Translators
 - In Transifex, choose among filters *status: translated*.
-- Pick your name/nick in *users: translator*
+- Pick your name/nick in *users: translator*.
 - Choose the translation period in *date: translated after/before* to specify the translation to be compensated.
 - After that, tick the box right to the filter field to select all strings, and you will see the total wordcount for the selected strings.
 
@@ -20,7 +20,6 @@ In order to be compensated for your work, you need to submit a compensation requ
 - Pick your name/nick in *users: reviewer*.
 - Choose the period in *date: translated after/before* to specify the review to be compensated.
 - After that, tick the box right to the filter field to select all strings, and you will see the total wordcount for the selected strings.
-
 
 Please take screenshots of all your work for a certain period and include them in your compensation request. Here is an example of screenshots for reviewing a translation.
   
@@ -31,3 +30,7 @@ Please take screenshots of all your work for a certain period and include them i
 ![Transifex comp req 2 April 2019 ](https://user-images.githubusercontent.com/43150241/56221966-7a3b8900-606b-11e9-9d7e-d22d14834fff.png)
 
 ![Transifex comp req 4 April 2019](https://user-images.githubusercontent.com/39760876/56637701-f0944880-6674-11e9-89af-2e0a20e3e876.png)
+
+### Coordinators & Admins
+Please specify the work you have done in this capacity in detail. These can include examples of your work (reports, documentation, etc).
+
