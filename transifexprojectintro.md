@@ -14,7 +14,7 @@ The Bisq software is available in English, Spanish, Portuguese (Brazil and Portu
 To add a language to the core group, a translator needs to submit a proposal to be voted on in a DAO cycle. A core language that has not provided value can also be removed from the list. Here are the guidelines for submitting a proposal to add or remove a language from the core group.
 
 ## The Team
-The Transifex team consists of translators, reviewers, coordinators and admins.
+The Transifex team consists of translators, reviewers, coordinators and admins. You can find a more detailed description of these roles [here](transifexroles.md)
 
 ### Translators
 Anyone is welcome to become a translator by creating an account on [Transifex](https://www.transifex.com/bisq) and requesting permission to translate. Please note that although we welcome your contributions in a language of your choice, currently only translations for core languages are being compensated.
