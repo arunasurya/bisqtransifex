@@ -4,9 +4,9 @@
 The aim of the Bisq Transifex Project is to produce technically accurate and up-to-date translations of the Bisq desktop application and relevant Bisq sites from English into other languages.
 
 All translations are done on [Transifex](https://www.transifex.com/bisq/), and we currently have three projects there:
-- #bisq-desktop, the most crucial part of the project which involves translation of the Bisq software. 
-- bisq-website, which involves translating [the Bisq landing page](https://bisq.network/) and other sites that provide important information about the app to users.
-- Bisq Subtitles, which provides subtitles for some Bisq videos on [YouTube](https://www.youtube.com/c/bisq-network).
+- Bisq desktop, the most crucial part of the project which involves translation of the Bisq software. 
+- Bisq website, which involves translating [the Bisq landing page](https://bisq.network/) and other sites that provide important information about the app to users.
+- Bisq subtitles, which provides subtitles for some Bisq videos on [YouTube](https://www.youtube.com/c/bisq-network).
 
 ## Core Languages
 The Bisq software is available in English, Spanish, Portuguese (Brazil and Portugal), French, Russian, German, Chinese (Mandarin and traditional), Japanese, Persian, Thai and Vietnamese. These are core languages the work for which is compensated. This list can change depending on the demand among users, feedback from other contributors, etc.
