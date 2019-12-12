@@ -41,6 +41,7 @@ Admins have the following responsibilities:
 - Keep general information in *Setting* on Transifex up-to-date (for all Transifex projects).
 - Keep track of issues on Transifex and coordinate the process of addressing these issues in [this query](https://docs.google.com/spreadsheets/d/1P4JMLrcRtSWkxfh9jG7AXkfdgdkEYwgttGgly-ercXc/edit#gid=0).
 - Establish and coordinate active language teams, and ensure that the team structure is updated on Transifex.
+- Assist contributors in deciding whether to add a new language to the core group.
 - Oversee the creation of a comprehensive glossary that is consistent across all core languages, and a style guide that can set standards for all translations.
 
 ## Communication
