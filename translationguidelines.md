@@ -5,6 +5,10 @@ The aim of this document is to provide guidelines for translators and reviewers 
 
 ## Table of Contents
 1. [Language Quality Assurance](##Language Quality Assurance)
+2. [Reviews](## Reviews)
+3. [Difficult Terms and Queries](## Difficult Terms and Queries)
+4. [Compensation](## Compensation)
+5. [New Language Proposals](## New Language Proposals)
 
 ## Language Quality Assurance
 
@@ -64,7 +68,7 @@ Please take screenshots of all your work for a certain period and include them i
 #### Coordinators & Admins
 Please specify the work you have done in this capacity by including examples of your work (reports, documentation, etc).
 
-## Language Proposals
+## New Language Proposals
 
 The Bisq software is currently available in English, Spanish, Portuguese (Brazil and Portugal), French, Russian, German, Chinese (Mandarin and traditional), Japanese, Persian, Thai and Vietnamese. These are core languages the work for which is compensated.
 
