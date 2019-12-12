@@ -36,12 +36,12 @@ Admins have the following responsibilities:
 - Update translations for all core languages in the [new client release](https://github.com/bisq-network/bisq/milestones).
   - Inform translators of the planned update, ideally a week before it happens.
 - Provide clear documentation to help translators do their work effectively. Update monthly or/and when needed.
+- Review statistics (YouTube, etc) to evaluate the level of activity in a language.
 - Moderate three major communication channels: #transifex keybase channel, announcements in Transifex, Bisq forum.
 - Keep general information in *Setting* on Transifex up-to-date (for all Transifex projects).
 - Keep track of issues on Transifex and coordinate the process of addressing these issues in [this query](https://docs.google.com/spreadsheets/d/1P4JMLrcRtSWkxfh9jG7AXkfdgdkEYwgttGgly-ercXc/edit#gid=0).
 - Establish and coordinate active language teams, and ensure that the team structure is updated on Transifex.
 - Oversee the creation of a comprehensive glossary that is consistent across all core languages, and a style guide that can set standards for all translations.
-
 
 ## Communication
 - Daily: #transifex channel on Keybase.
