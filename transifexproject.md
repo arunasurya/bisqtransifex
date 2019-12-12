@@ -1,2 +1,0 @@
-# Bisq Transifex Project
-
