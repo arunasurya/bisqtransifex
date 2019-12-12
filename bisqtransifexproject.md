@@ -39,7 +39,6 @@ Admins have the following responsibilities:
 - Moderate three major communication channels: #transifex keybase channel, announcements in Transifex, Bisq forum.
 - Keep general information in *Setting* on Transifex up-to-date (for all Transifex projects).
 - Keep track of issues on Transifex and coordinate the process of addressing these issues in [this query](https://docs.google.com/spreadsheets/d/1P4JMLrcRtSWkxfh9jG7AXkfdgdkEYwgttGgly-ercXc/edit#gid=0).
-- Coordinate the process of clarifying [difficult terms](https://docs.google.com/spreadsheets/d/1P4JMLrcRtSWkxfh9jG7AXkfdgdkEYwgttGgly-ercXc/edit#gid=0) by engaging developers in answering translators' questions. 
 - Establish and coordinate active language teams, and ensure that the team structure is updated on Transifex.
 - Oversee the creation of a comprehensive glossary that is consistent across all core languages, and a style guide that can set standards for all translations.
 
