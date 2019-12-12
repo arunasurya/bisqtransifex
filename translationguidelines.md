@@ -5,10 +5,10 @@ The aim of this document is to provide guidelines for translators and reviewers 
 
 ## Table of Contents
 1. [Language Quality Assurance](##language-quality-assurance)
-2. [Reviews](## Reviews)
-3. [Difficult Terms and Queries](## Difficult Terms and Queries)
-4. [Compensation](## Compensation)
-5. [New Language Proposals](## New Language Proposals)
+2. [Reviews](##reviews)
+3. [Difficult Terms and Queries](##difficult-terms-and-queries)
+4. [Compensation](##compensation)
+5. [New Language Proposals](##new-language-proposals)
 
 ## Language Quality Assurance
 
