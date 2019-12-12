@@ -3,6 +3,9 @@
 ## Introduction
 The aim of this document is to provide guidelines for translators and reviewers to do their job effectively.
 
+## Table of Contents
+1. [Language Quality Assurance](##Language Quality Assurance)
+
 ## Language Quality Assurance
 
 ### Mistakes in the Software
