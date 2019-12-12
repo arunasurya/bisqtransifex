@@ -2,7 +2,7 @@
 
 ##  Introduction
 
-The aim of the Bisq Transifex project is to produce technically accurate and up-to-date translations of the Bisq desktop application and relevant Bisq sites from English into other languages.
+The aim of the Bisq Transifex Project is to produce technically accurate and up-to-date translations of the Bisq desktop application and relevant Bisq sites from English into other languages.
 
 All translations are done on [Transifex](https://www.transifex.com/bisq/), and we currently have three projects there:
 - #bisq-desktop, the most crucial part of the project which involves translation of the Bisq software. 
