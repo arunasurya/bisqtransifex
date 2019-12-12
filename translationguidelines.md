@@ -7,9 +7,7 @@ The aim of this document is to provide guidelines for translators and reviewers 
 
 
 ## Reviews
-Reviews involve checking the translation thoroughly against the original. Ideally, a reviewer performs reviews on someone else's translation, and not on their own. 
-
-Some language teams may consist of only one active translator. In this case, several options are available:
+Reviews involve checking the translation thoroughly against the original. Ideally, a reviewer performs reviews on someone else's translation. Some language teams may consist of only one active translator. In this case, several options are available:
 - Reviews can be postponed till a new translator joins the project (a string does not need to be reviewed to be included in the next software release).
 - Reviews can be done by the same translator if they have shown solid knowledge of their language.
 
