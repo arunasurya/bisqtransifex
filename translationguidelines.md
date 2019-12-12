@@ -25,24 +25,24 @@ Translators/reviewers might face difficulties rendering various terms/words/segm
 - Please add the date and Transifex segment number, choose your language and indicate your question. 
 - Be sure to add your Transifex ID when leaving a query/answer so that we can get in touch with each other in case we need to elaborate on an issue (there's a sample query for guidance).
 
-# Compensation
+## Compensation
 
 Currently, translations/reviews for the following languages are compensated: Spanish, Portuguese (Brazil and Portugal), French, Russian, German, Chinese (Mandarin and traditional), Japanese, Persian, Thai and Vietnamese.
 
-## Rates
+### Rates
 
 We use standard rates: 0.07BSQ per word for translations, 0.035BSQ per word for reviews. If you think that your language should have different rates, please raise this issue with your coordinator and admins.
 
-## Process
+### Process
 In order to be compensated for your work, you need to submit a compensation request in Bisq DAO. Please submit details of your work in the request. This is done to help the stakeholders validate your request.
 
-### Translators
+#### Translators
 - In Transifex, choose among filters *status: translated*.
 - Pick your name/nick in *users: translator*.
 - Choose the translation period in *date: translated after/before* to specify the translation to be compensated.
 - After that, tick the box right to the filter field to select all strings, and you will see the total wordcount for the selected strings.
 
-### Reviewers
+#### Reviewers
 - Use *status: reviewed*.
 - Pick your name/nick in *users: reviewer*.
 - Choose the period in *date: translated after/before* to specify the review to be compensated.
@@ -58,6 +58,6 @@ Please take screenshots of all your work for a certain period and include them i
 
 ![Transifex comp req 4 April 2019](https://user-images.githubusercontent.com/39760876/56637701-f0944880-6674-11e9-89af-2e0a20e3e876.png)
 
-### Coordinators & Admins
+#### Coordinators & Admins
 Please specify the work you have done in this capacity by including examples of your work (reports, documentation, etc).
 
