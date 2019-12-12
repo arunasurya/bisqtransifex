@@ -4,7 +4,7 @@
 The aim of this document is to provide guidelines for translators and reviewers to do their job effectively.
 
 ## Table of Contents
-1. [Language Quality Assurance](##Language Quality Assurance)
+1. [Language Quality Assurance](##language-quality-assurance)
 2. [Reviews](## Reviews)
 3. [Difficult Terms and Queries](## Difficult Terms and Queries)
 4. [Compensation](## Compensation)
