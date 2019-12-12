@@ -13,7 +13,7 @@ The Bisq software is available in English, Spanish, Portuguese (Brazil and Portu
 
 To add a language to the core group, a translator needs to submit a proposal to be voted on in a DAO cycle. A core language that has not provided value or has been inactive can be removed from the list. Here are the guidelines for submitting a proposal to add a language to or remove it from the core group.
 
-## The Team
+## Roles
 The Transifex team consists of translators, reviewers, coordinators and admins.
 
 ### Translators
@@ -26,7 +26,23 @@ Those translators who have been regular contributors and have shown solid knowle
 In Transifex, each language team has a coordinator who is available to answer questions from other translators and provide any technical help if needed.
 
 ### Admins
-There are two admins in the project, one acting in the primary role, and the other in the secondary role. Any coordinator who has contributed on a regular basis can become an admin once the position is open.
+There are two admins in the project. An admin acting in the primary role ensures that all essential tasks have been completed. Any coordinator who has contributed on a regular basis can become an admin once the position is open
+
+#### Responsibilities
+Admins have the following responsibilities:
+- Create [monthly reports](https://github.com/bisq-network/roles/issues/20).
+- Host [monthly translator calls](translatorcalls.md).
+- Accept new translators, assign translators as reviewers and coordinators on Transifex.
+- Update translations for all core languages in the [new client release](https://github.com/bisq-network/bisq/milestones).
+  - Inform translators of the planned update, ideally a week before it happens.
+- Provide clear documentation to help translators do their work effectively. Update monthly or/and when needed.
+- Moderate three major communication channels: #transifex keybase channel, announcements in Transifex, Bisq forum.
+- Keep general information in *Setting* on Transifex up-to-date (for all Transifex projects).
+- Keep track of issues on Transifex and coordinate the process of addressing these issues in [this query](https://docs.google.com/spreadsheets/d/1P4JMLrcRtSWkxfh9jG7AXkfdgdkEYwgttGgly-ercXc/edit#gid=0).
+- Coordinate the process of clarifying [difficult terms](https://docs.google.com/spreadsheets/d/1P4JMLrcRtSWkxfh9jG7AXkfdgdkEYwgttGgly-ercXc/edit#gid=0) by engaging developers in answering translators' questions. 
+- Establish and coordinate active language teams, and ensure that the team structure is updated on Transifex.
+- Oversee the creation of a comprehensive glossary that is consistent across all core languages, and a style guide that can set standards for all translations.
+
 
 ## Communication
 - Daily: #transifex channel on Keybase.
