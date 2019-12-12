@@ -1,20 +1,26 @@
 
-# Language proposals
+# Language Proposals
 
-Currently, 
+The Bisq software is currently available in English, Spanish, Portuguese (Brazil and Portugal), French, Russian, German, Chinese (Mandarin and traditional), Japanese, Persian, Thai and Vietnamese. These are core languages the work for which is compensated. 
 
-If you believe that your language should become part of the core group, you can submit a proposal which will be voted on by all stakeholders in the following Bisq DAO cycle.
+## Criteria for Core Languages
 
-## Process
+The core language list is based on several factors such as:
+- The number of speakers worldwide in that language (e.g., Spanish, Portuguese, Russian, Japanese and Mandarin Chinese).
+- Competence in English among speakers of a certain language.
+- Translator activity level (those languages that have not had active translators can be removed from the list).
+- Importance of introducing Bisq to specific countries.
 
-Please provide solid reasons for adding your language. These can include:
+## Adding a Language to the Core Group
 
-The core language list is based on several factors such as usage of the software by the speakers of these languages (we encode the selected language within the software as a parameter when a user opens a link to a web property of ours (e.g. bisq.network or docs.bisq.network)), how complete the translation for a particular language is, translator activity level, poor competence in English among speakers of those languages, and the importance of introducing Bisq to certain countries. 
+To add a language to the core group, a contributor needs to submit [a proposal](https://docs.bisq.network/proposals.html) to be voted on in a DAO cycle. Prior to submittig a proposal, it may be best to discuss your ideas on #transifex channel on Keybase and engage other translators as well as admins in the discussion.
 
-If there is no or a substantially decreased user interest in some of the current core languages, or no translator activity, those languages may be removed from the list. This applies especially to those languages that are not widely spoken or if they are in the European Union. If a language (such as Greek or Serbian) has been part of the core language list and was recently removed, the past work for that language is still compensated.
+Please provide solid reasons that will make it more likely to convince Bisq stakeholders to approve your proposal.
 
-Although we have activity in over 30 languages in the bisq-desktop project, the translation of the noncore languages is not currently compensated. This includes all past translations for those languages that have never been included in any of the Bisq releases.
-
-That being said, this is not a final list, and it is subject to change if there is a demand for a new language or if a good reason is given to include that language. A translator is welcome to create a [proposal](https://docs.bisq.network/proposals.html) to be voted on in the Bisq DAO to add a language. A new language is most likely to be accepted if there is an active effort to create a community and user base in that language, e.g., via meetups, [liquidity weeks](https://github.com/bisq-network/compensation/issues/62), forums, etc. If there is an increased interest in a language, say Italian, and if it is accepted to the core list, then the past translations can be compensated.
+A new language is most likely to be accepted if there is an active effort to create a community and user base in that language, e.g., via meetups, [liquidity weeks](https://github.com/bisq-network/compensation/issues/62), forums, etc. If there is an increased interest in a language, say Italian, and if it is accepted to the core list, then the past translations can be compensated.
 
 Unlike typical companies, Bisq aims to increase its user base in an organic, privacy-preserving manner. This means that we don't want to do typical marketing or work with ad providers that snoop into users' privacy. Ideally, a group of contributors will act in a coordinated manner to educate potential users about Bisq via meetups, etc. So, in short, this is a dynamic process, subject primarily to user demand, translator activity, the number of speakers worldwide and competence level.
+
+## Removing a Language from the Core Group
+
+A core language that has not provided value or has been inactive can be removed from the list. If there is no or a substantially decreased user interest in some of the current core languages, or no translator activity, those languages may be removed from the list. This applies especially to those languages that are not widely spoken or if they are in the European Union. If a language (such as Greek or Serbian) has been part of the core language list and was recently removed, the past work for that language is still compensated
