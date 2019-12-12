@@ -1,18 +1,16 @@
-# Transifex Quality Assurance
+# Translation Guidelines
 
 ## Introduction
-The aim of this document is to help translators and reviewers provide 
+The aim of this document is to provide guidelines for translators and reviewers to do their job well.
 
-Each new software release contains the latest translations even though they have not been reviewed. This is done to have the software translations as complete as possible.
+Each new software release contains the latest translations even though they have not been reviewed. This is done to have
 
 ## Reviewers 
 Reviews involve checking the translation thoroughly against the original. Ideally, a reviewer performs reviews on someone else's translation, and not on their own. Some language teams may consist of only one active translator. In this case, several options are available:
 - Reviews can be postponed till a new translator joins the project.
 - Reviews can be done by the translator him/herself if the admins or other translators trust that translator's skill.
 
-A new translator needs to show their skill by translating first. Once the quality of their work has been assessed by the other translators, they can be granted permission to review.
-
-In cases where Bisq is working with a translation agency, the agency has a choice of assigning their own translators as reviewers, and one of the Transifex admins accepts that choice based on their judgment (such as evaluating past work, etc).
+A new translator needs to show their skill by translating first. Once the quality of their work has been assessed by other translators, they can be granted permission to review.
 
 ## Language Quality Assurance
 - If you notice a mistake in the English version, please report it by adding a comment to that particular string and tagging it as an issue. The admins will be informed of the issue and will take proper action. Also, feel free to raise the issue on the #transifex Slack channel.
@@ -42,7 +40,4 @@ The purpose of the style guide is to set certain translation standards for our p
 
 The style guide should be available directly in Transifex in the future. At this moment, we are using the Bisq query tracker to write down a list of hard to translate terms. If you don't know whether to leave a certain term as it is, translate or transliterate it, please take a look at the tracker, see how other translators approached the term, and enter your thoughts there.
 
-## Resources
-
-[A guide to translation project management](https://courses.comet.ucar.edu/pluginfile.php/27060/mod_resource/content/12/GuideToTranslationManagement_V1a_02102017_final.pdf)
 
