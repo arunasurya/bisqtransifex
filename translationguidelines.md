@@ -13,7 +13,7 @@ The aim of this document is to provide guidelines for translators and reviewers 
 ## Language Quality Assurance
 
 ### Mistakes in the Software
-- If you notice a mistake in the English version, please report it by adding a comment to that particular string and tagging it as an issue in Transifex. The admins will be informed of the issue and will take proper action. Also, feel free to raise the issue on the #transifex keybase channel.
+- If you notice a mistake in the English version of the software, please report it by adding a comment to that particular string and tagging it as an issue in Transifex. The admins are automatically informed of the issue and will take proper action. Feel free to raise the issue on the #transifex keybase channel.
 
 ### Trailing spaces
 - In the past, some strings had trailing spaces which caused some problems when updating the translations. Please make sure that there are no trailing spaces in the translated strings.
