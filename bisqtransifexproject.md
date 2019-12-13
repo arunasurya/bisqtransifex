@@ -21,7 +21,9 @@ The Bisq software is available in English, Spanish, Portuguese (Brazil and Portu
 To add a language to the core group, a translator needs to submit a proposal to be voted on in a DAO cycle. A core language that has not provided value or has been inactive can be removed from the list. [Here](translationguidelines.md) are the guidelines for submitting a proposal to add a language to or remove it from the core group.
 
 ### Bisq Website & Subtitles
-To make it easier for users to understand the Bisq software, certain Bisq pages (such as the landing page, vision and others) are available in core languages. There are also some Bisq videos with subtitles in several core languages. Please keep in mind that only translations in core languages are compensated.
+To make it easier for users to understand the Bisq software, certain Bisq pages (such as the landing page, vision and others) are available in core languages. 
+
+There are also some Bisq videos with subtitles in several core languages. Only translations into core languages are compensated. Priority is given to videos with most views.
 
 ## Roles
 The Transifex team consists of translators, reviewers, coordinators and admins.
