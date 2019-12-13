@@ -36,10 +36,10 @@ Those translators who have been regular contributors and have shown solid knowle
 In Transifex, each language team has a coordinator who is available to answer questions from other translators and provide any technical help if needed.
 
 ### Admins
-There are two admins in the project. An admin acting in the primary role ensures that all essential tasks have been completed. Any coordinator who has contributed on a regular basis can become an admin once the position is open
+There are two admins in the project. An admin acting in the primary role ensures that all essential tasks have been completed. Any coordinator who has contributed on a regular basis can become an admin once the position is open.
 
-#### Responsibilities
-Admins have the following responsibilities:
+Admin responsibilities include the following tasks (some of which may be delegated to coordinators and other translators:
+
 - Create [monthly reports](https://github.com/bisq-network/roles/issues/20).
 - Host [monthly translator calls](translatorcalls.md).
 - Accept new translators, assign translators as reviewers and coordinators on Transifex.
