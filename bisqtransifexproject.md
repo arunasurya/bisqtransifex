@@ -11,7 +11,10 @@ All translations are done on [Transifex](https://www.transifex.com/bisq/), and w
 ## Core Languages
 The Bisq software is available in English, Spanish, Portuguese (Brazil and Portugal), French, Russian, German, Chinese (Mandarin and traditional), Japanese, Persian, Thai and Vietnamese. These are core languages the work for which is compensated. This list can change depending on the demand among users, feedback from other contributors, etc.
 
-To add a language to the core group, a translator needs to submit a proposal to be voted on in a DAO cycle. A core language that has not provided value or has been inactive can be removed from the list. Here are the guidelines for submitting a proposal to add a language to or remove it from the core group.
+To add a language to the core group, a translator needs to submit a proposal to be voted on in a DAO cycle. A core language that has not provided value or has been inactive can be removed from the list. [Here](translationguidelines.md) are the guidelines for submitting a proposal to add a language to or remove it from the core group.
+
+### Bisq Website & Subtitles
+To make it easier for users to understand the Bisq software, certain Bisq pages (such as the landing page, vision and others) are available in core languages. There are also some Bisq videos with subtitles in several core languages. Please keep in mind that only translations in core languages are compensated.
 
 ## Roles
 The Transifex team consists of translators, reviewers, coordinators and admins.
@@ -50,4 +53,4 @@ Admins have the following responsibilities:
 - The Transifex team meets online once a month via [monthly translator calls](https://www.youtube.com/playlist?list=PLFH5SztL5cYPPMIBM22SbqrJ01AXTeVY_).
 
 ## Compensation
-Translators and reviewers can submit their compensation requests for their work in the following Bisq DAO cycle. Here are [the guidelines](compensation.md) for submitting a compensation request.
+Translators and reviewers can submit their compensation requests for their work in the following Bisq DAO cycle. Here are [the guidelines](translationguidelines.md) for submitting a compensation request.
