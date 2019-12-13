@@ -8,6 +8,13 @@ All translations are done on [Transifex](https://www.transifex.com/bisq/), and w
 - Bisq website, which involves translating [the Bisq landing page](https://bisq.network/) and other sites that provide important information about the app to users.
 - Bisq subtitles, which provides subtitles for some Bisq videos on [YouTube](https://www.youtube.com/c/bisq-network).
 
+## Table of Contents
+
+1. [Core Languages](##core-languages)
+2. [Roles](##roles)
+3. [Communication](##communication)
+4. [Compensation](##compensation)
+
 ## Core Languages
 The Bisq software is available in English, Spanish, Portuguese (Brazil and Portugal), French, Russian, German, Chinese (Mandarin and traditional), Japanese, Persian, Thai and Vietnamese. These are core languages the work for which is compensated. This list can change depending on the demand among users, feedback from other contributors, etc.
 
