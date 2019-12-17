@@ -34,7 +34,9 @@ Translators/reviewers might face difficulties rendering various terms/words/segm
 
 ## Compensation
 
-Currently, translations/reviews for the following languages are compensated: Spanish, Portuguese (Brazil and Portugal), French, Russian, German, Chinese (Mandarin and traditional), Japanese, Persian, Thai and Vietnamese.
+Currently, translations/reviews for the following languages are compensated: Spanish, Portuguese (Brazil and Portugal), French, Russian, German, Chinese (Mandarin and traditional), Japanese, Persian, Thai and Vietnamese. 
+
+If a language that is currently not part of the core group becomes a core language, then the past translations and reviews for that language are compensated.
 
 ### Rates
 
@@ -77,26 +79,21 @@ The core language list is based on several factors such as:
 - The number of speakers worldwide in that language (e.g., Spanish, Portuguese, Russian, Japanese and Mandarin Chinese).
 - Trading activity in that language (e.g., Portuguese, Spanish).
 - Competence in English among speakers of a certain language (e.g., Japanese).
-- Translator activity level (those languages that have not had active translators for some time are likely to be removed from the list).
-- Importance of introducing Bisq to specific countries.
+- Translator activity level.
+- Importance of introducing Bisq to certain markets because of growth opportunities, etc.
 
 ### Adding a Language to the Core Group
-If you believe that your language should be part of the core group, you may want to start sharing your ideas on #transifex channel on Keybase and engage other contributors in the dicussion.
+If you believe that your language should be part of the core group, we suggest that you start by sharing your ideas on #transifex channel on Keybase and engaging other contributors in the dicussion. You can then write a [a proposal](https://docs.bisq.network/proposals.html) which you need submit to the Bisq DAO.
 
-To add a language to the core group, you need to submit [a proposal](https://docs.bisq.network/proposals.html) to be voted on in a DAO cycle. Please specify in your request the current state of your language (e.g., what fraction of it has been translated, if any), the total cost for the translation and review of the entire software into your language as well as solid reasons to add your language to the core list. This will make it easier for Bisq stakeholders to assess your proposal. 
+Please specify in your request the current state of your language (e.g., what fraction of it has been translated, if any), the total cost for the translation and review of the entire software into your language as well as solid reasons to add your language to the core list. This will make it easier for Bisq stakeholders to assess your proposal and make a decision. 
 
-A new language is most likely to be accepted if there is an active effort to create a community and user base in that language, e.g., via meetups, [liquidity weeks](https://github.com/bisq-network/compensation/issues/62), forums, etc. The stakeholders are more likely to be approve your proposal if they believe that you are committed to the project and will be able to deliver translations and reviews on a regular basis.
+A new language is most likely to be accepted if there is an active effort to expand its user base via meetups, [liquidity weeks](https://github.com/bisq-network/compensation/issues/62), forums, etc. Also, the stakeholders are more likely to be approve your proposal if they believe that you are committed to the project and will be able to deliver translations and reviews on a regular basis.
 
-You may want to share a draft of your proposal with other translators before submitting it for a vote. Once the proposal is accepted by stakeholders, a Bisq developer sends a pull request to add the language and one of the admins will accept it.
-
-Unlike typical companies, Bisq aims to increase its user base in an organic, privacy-preserving manner. This means that we don't want to do typical marketing or work with ad providers that snoop into users' privacy. Ideally, a group of contributors will act in a coordinated manner to educate potential users about Bisq via meetups, etc. So, in short, this is a dynamic process and is mostly dependent on user activity level in a certain language.
-
-If there is an increased interest in a language, say Italian, and if it is accepted to the core list, then the past translations are compensated.
+Once the proposal is accepted by the stakeholders, a Bisq developer will send a pull request to add the language which will then be accepted by one of the admins.
 
 ### Removing a Language from the Core Group
+If a core language does not provide any value (e.g., no user interest) or if there is no or sporadic translator activity, that language may be removed from the list. This applies especially to those languages that are not widely spoken or if they are in the European Union. If a language (such as Greek) has been part of the core language list and was recently removed, the past work for that language is still compensated. 
 
-A core language that has not provided value or has been inactive can be removed from the list. If there is no or a substantially decreased user interest in some of the current core languages, or no translator activity, those languages may be removed from the list. This applies especially to those languages that are not widely spoken or if they are in the European Union. If a language (such as Greek) has been part of the core language list and was recently removed, the past work for that language is still compensated. 
-
-To remove a language from the core list, an admin submits a proposal on Bisq DAO. As soon as it is accepted, a pull request is sent to remove the language, and one of Transifex admins will accept that request.
+To remove a language from the core list, an admin submits a proposal on the Bisq DAO. As soon as it is accepted, a pull request is sent to remove the language, and one of Transifex admins will accept that request.
 
 
