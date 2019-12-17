@@ -68,7 +68,7 @@ Please take screenshots of all your work for a certain period and include them i
 ![Transifex comp req 4 April 2019](https://user-images.githubusercontent.com/39760876/56637701-f0944880-6674-11e9-89af-2e0a20e3e876.png)
 
 #### Coordinators & Admins
-Please specify the work you have done in this capacity by including examples of your work (reports, documentation, etc).
+Please specify the work you have done in this capacity by including links to your work (reports, documentation, etc).
 
 ## New Language Proposals
 Our main priority is to produce complete and high quality translations of the Bisq software for users in countries where we believe Bisq is needed or used. Although we are open to accepting new translators and requests for new languages, we have budget constraints, and that is why we prioritize core languages over dozens of others that are available in Transifex, and only compensate work done for those core languages.
