@@ -28,7 +28,7 @@ Ideally, a reviewer performs reviews on someone else's translation. Some languag
 
 ## Difficult Terms and Queries
 Translators/reviewers might face difficulties rendering various terms/words/segments.
-- Please add queries to the [Bisq query tracker](https://docs.google.com/spreadsheets/d/1P4JMLrcRtSWkxfh9jG7AXkfdgdkEYwgttGgly-ercXc/edit#gid=0) so we can try finding solutions collectively (some of translators/reviewers might know the answer) or, if everyone has trouble rendering them, ask the devs to explain them to us / provide synonyms/alternatives. The queries will be updated weekly, so please review the answers to your questions periodically and mark them as "resolved" if you are satisfied with the answers.
+- Please add queries to the [Bisq query tracker](https://docs.google.com/spreadsheets/d/1P4JMLrcRtSWkxfh9jG7AXkfdgdkEYwgttGgly-ercXc/edit#gid=0) so we can try finding solutions collectively (some of translators/reviewers might know the answer) or, if everyone has trouble rendering them, ask the devs to explain them to us / provide synonyms/alternatives. The queries will be updated regularly, so please review the answers to your questions periodically and mark them as "resolved" if you are satisfied with the answers.
 - Please add the date and Transifex segment number, choose your language and indicate your question. 
 - Be sure to add your Transifex ID when leaving a query/answer so that we can get in touch with each other in case we need to elaborate on an issue (there's a sample query for guidance).
 
