@@ -35,7 +35,7 @@ Any contributor who has good knowledge of a foreign language is welcome to becom
 Those translators who have been regular contributors and have shown solid knowledge of their language are given access to review. You can find more guidelines on translations and reviews [here](translationguidelines.md).
 
 ### Coordinators
-In Transifex, each language team has a coordinator who is available to guide new translator, help resolve Transifex issues, and explore opportunities to expand Bisq in their region. This is not an official role and mostly depends on the coordinators' initiatve and involvement. The workload can vary depending on the engagement, and so does the amount of compensation. A few coordinators who have contributed on a regular basis are given access on Transifex to take over some of the admin tasks to ensure smooth workflow.
+In Transifex, each language team has a coordinator who is available to guide new translators, help resolve Transifex issues, and explore opportunities to expand Bisq in their region. This is not an official role and mostly depends on the coordinators' initiatve and involvement. The workload can vary depending on the engagement, and so does the amount of compensation. A few coordinators who have contributed on a regular basis are given access on Transifex to take over some of the admin tasks to ensure smooth workflow.
 
 ### Admins
 There are two admins in the project. An admin acting in the primary role ensures that all essential tasks have been completed. Any coordinator who has contributed on a regular basis can become an admin once the position is open.
