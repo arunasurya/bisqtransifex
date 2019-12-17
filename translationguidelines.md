@@ -83,7 +83,7 @@ The core language list is based on several factors such as:
 - Importance of introducing Bisq to certain markets because of growth opportunities, etc.
 
 ### Adding a Language to the Core Group
-If you believe that your language should be part of the core group, we suggest that you start by sharing your ideas on #transifex channel on Keybase and engaging other contributors in the dicussion. If you are committed to having your language represented in Bisq, you may want to start by translating the [Bisq vision](https://bisq.network/vision/) page which can help us determine if there is any interest in Bisq.
+If you believe that your language should be part of the core group, we suggest that you start by sharing your ideas on #transifex channel on Keybase and engaging other contributors in the dicussion. If you are committed to having your language represented in Bisq, you may want to start by translating the [Bisq vision](https://bisq.network/vision/) page which can help us determine if there is any interest in Bisq. If your language is accepted, you can request compensation for this work.
 
 You can then write [a proposal](https://docs.bisq.network/proposals.html) which you need submit to the Bisq DAO.
 
