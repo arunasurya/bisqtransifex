@@ -20,11 +20,11 @@ The aim of this document is to provide guidelines for translators and reviewers 
 - Once the translations have been updated in [the next release](https://github.com/bisq-network/bisq/milestones), please check all the strings in your language in the updated software.
 
 ## Reviews
-Reviews involve checking the translation thoroughly against the original. Ideally, a reviewer performs reviews on someone else's translation. Some language teams may consist of only one active translator. In this case, several options are available:
+Reviews involve checking the translation thoroughly against the original. A new translator needs to show their skill by translating first. Once the quality of their work has been assessed by other translators in their language team, they can be granted permission to review. 
+
+Ideally, a reviewer performs reviews on someone else's translation. Some language teams may consist of only one active translator. In this case, several options are available:
 - Reviews can be postponed till a new translator joins the project (a string does not need to be reviewed to be included in the next software release).
 - Reviews can be done by the same translator if they have shown solid knowledge of their language.
-
-A new translator needs to show their skill by translating first. Once the quality of their work has been assessed by other translators in their language team, they can be granted permission to review. 
 
 ## Difficult Terms and Queries
 Translators/reviewers might face difficulties rendering various terms/words/segments.
