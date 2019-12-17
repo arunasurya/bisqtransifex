@@ -16,26 +16,26 @@ All translations are done on [Transifex](https://www.transifex.com/bisq/), and w
 4. [Compensation](##compensation)
 
 ## Core Languages
-The Bisq software is available in English, Spanish, Portuguese (Brazil and Portugal), French, Russian, German, Chinese (Mandarin and traditional), Japanese, Persian, Thai and Vietnamese. These are core languages the work for which is compensated. This list can change depending on the demand among users, feedback from other contributors, etc.
+The Bisq software is available in English, Spanish, Portuguese (Brazil and Portugal), French, Russian, German, Chinese (Mandarin and traditional), Japanese, Persian, Thai and Vietnamese. These are core languages the work for which is compensated. We focus on quality, consistency and availability of important information about Bisq, so we prioritize these core languages. 
 
-To add a language to the core group, a translator needs to submit a proposal to be voted on in a DAO cycle. A core language that has not provided value or has been inactive can be removed from the list. [Here](translationguidelines.md) are the guidelines for submitting a proposal to add a language to or remove it from the core group.
+In order to add a language to the core group, please follow these [guidelines](translationguidelines.md) to submit a proposal to the Bisq DAO.
 
 ### Bisq Website & Subtitles
-To make it easier for users to understand the Bisq software, certain Bisq pages (such as the landing page, vision and others) are available in core languages. 
+To make it easier for users to understand the Bisq software, certain Bisq pages (such as the landing page, vision and others) are available in core languages. The decision to translate certain pages is based on their importance to users, and is mostly focused on the software itself.
 
-There are also some Bisq videos with subtitles in several core languages. Only translations into core languages are compensated. Priority is given to videos with most views.
+There are also some Bisq videos with subtitles in several core languages. Only translations into core languages are compensated. To ensure that we stay within budget constraints, we keep track of views and prioritize videos that have a lot of views. 
 
 ## Roles
 The Transifex team consists of translators, reviewers, coordinators and admins.
 
 ### Translators
-Anyone is welcome to become a translator by creating an account on [Transifex](https://www.transifex.com/bisq) and requesting permission to translate. Please note that although we welcome your contributions in a language of your choice, currently only translations for core languages are being compensated.
+Any contributor who has good knowledge of a foreign language is welcome to become a translator by creating an account on [Transifex](https://www.transifex.com/bisq) and requesting permission to translate. Please note that although we welcome your contributions in a language of your choice, currently only translations for core languages are being compensated.
 
 ### Reviewers
 Those translators who have been regular contributors and have shown solid knowledge of their language are given access to review. You can find more guidelines on translations and reviews [here](translationguidelines.md).
 
 ### Coordinators
-In Transifex, each language team has a coordinator who is available to answer questions from other translators and provide any technical help if needed.
+In Transifex, each language team has a coordinator who is available to guide new translator, help resolve Transifex issues, and explore opportunities to expand Bisq in their region. This is not an official role and mostly depends on the coordinators' initiatve and involvement. The workload can vary depending on the engagement, and so does the amount of compensation. A few coordinators who have contributed on a regular basis are given access on Transifex to take over some of the admin tasks to ensure smooth workflow.
 
 ### Admins
 There are two admins in the project. An admin acting in the primary role ensures that all essential tasks have been completed. Any coordinator who has contributed on a regular basis can become an admin once the position is open.
@@ -44,16 +44,16 @@ Admin responsibilities include the following tasks (some of which may be delegat
 
 - Create [monthly reports](https://github.com/bisq-network/roles/issues/20).
 - Host [monthly translator calls](translatorcalls.md).
+- Keep track of monthly expenses for the project (based on compensation requests). 
 - Accept new translators, assign translators as reviewers and coordinators on Transifex.
 - Update translations for all core languages in the [new client release](https://github.com/bisq-network/bisq/milestones).
   - Inform translators of the planned update, ideally a week before it happens.
 - Provide clear documentation to help translators do their work effectively and keep it updated.
-- Review statistics (YouTube, etc) to evaluate the level of activity in a language.
-- Moderate three major communication channels: #transifex keybase channel, announcements in Transifex, Bisq forum.
-- Keep general information in *Setting* on Transifex up-to-date (for all Transifex projects).
-- Keep track of issues on Transifex and coordinate the process of addressing these issues in [this query](https://docs.google.com/spreadsheets/d/1P4JMLrcRtSWkxfh9jG7AXkfdgdkEYwgttGgly-ercXc/edit#gid=0).
-- Establish and coordinate active language teams, and ensure that the team structure is updated on Transifex.
-- Assist contributors in deciding whether to add a new language to the core group.
+- Review statistics (YouTube, etc) to evaluate user activity in that language.
+- Moderate three major communication channels: #transifex Keybase channel, announcements in Transifex, Bisq forum.
+- Keep general information in *Setting* on Transifex updated (for all Transifex projects).
+- Keep track of issues on Transifex and in [the query](https://docs.google.com/spreadsheets/d/1P4JMLrcRtSWkxfh9jG7AXkfdgdkEYwgttGgly-ercXc/edit#gid=0) and ensure that they have been addressed.
+- Establish and coordinate active language teams, ensure that the team structure is updated on Transifex.
 - Oversee the creation of a comprehensive glossary that is consistent across all core languages, and a style guide that can set standards for all translations.
 
 ## Communication
