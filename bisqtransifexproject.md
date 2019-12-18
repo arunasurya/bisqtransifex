@@ -42,7 +42,7 @@ There are two admins in the project. An admin acting in the primary role ensures
 
 Admin responsibilities include the following tasks (some of which may be delegated to coordinators and other translators):
 
-- Create [monthly reports](https://github.com/bisq-network/roles/issues/20).
+- Create [reports](https://github.com/bisq-network/roles/issues/20) for each Bisd DAO cycle.
 - Host [monthly translator calls](translatorcalls.md).
 - Keep track of monthly expenses for the project (based on compensation requests). 
 - Accept new translators, assign translators as reviewers and coordinators on Transifex.
