@@ -1,10 +1,10 @@
 # Transifex Team Structure
 
 There are six roles in the Transifex organizational structure: 
-- An admin, who has full access to all Transifex features.
-- A project maintainer, who maintains specific projects on Transifex.
-- A team manager, who is responsible for activities in a specific team.
-- A coordinator, who oversees a specific language within a team.
+- *An admin*, who has full access to all Transifex features.
+- *A project maintainer*, who maintains specific projects on Transifex.
+- *A team manager*, who is responsible for activities in a specific team.
+- *A coordinator*, who oversees a specific language within a team.
 - Reviewers
 - Translators
 
