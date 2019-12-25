@@ -10,7 +10,7 @@ The Transifex documentation specifies six roles:
 
 Currently in Transifex there is one Bisq team translating three projects (desktop, website and subtitles) from English into dozens of languages, out of which twelve are core (i.e., included in the software and compensated): Spanish, Portuguese (Brazil and Portugal), Russian, French, German, Chinese (Mandarin and traditional), Japanese, Thai, Vietnmaese and Persian.
 
-The Bisq Transifex team consists of two admins (@arunasurya and @ripcurlx on Keybase/@riclas in Transifex), 12 coordinators, and many reviewers and translators. The admins encompass three Transifex roles (an admin, a project maintainer and a team manager). A project maintainer role can also be shared with other contributors who contribute to a specific project.
+The Bisq Transifex team consists of two admins (@arunasurya and @ripcurlx on Keybase/@riclas in Transifex), 12 coordinators, and many reviewers and translators. The admins encompass three Transifex roles (an admin, a project maintainer and a team manager). A project maintainer role can also be shared with other contributors whose work is vital to a specific project.
 
 ## Coordinators
 A coordinator works closely with reviewers and translators and is able to accept/reject requests to translate.
