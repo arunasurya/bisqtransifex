@@ -13,8 +13,7 @@ Currently in Transifex there is one Bisq team translating three projects (deskto
 The Bisq Transifex team consists of two admins (@arunasurya and @ripcurlx on Keybase/@riclas in Transifex), 12 coordinators, and many reviewers and translators. The admins encompass three Transifex roles (an admin, a project maintainer and a team manager). A project maintainer role can also be shared with other contributors whose work is vital to a specific project.
 
 ## Coordinators
-A coordinator works closely with reviewers and translators and is able to accept/reject requests to translate.
-A coordinator is responsible for ensuring the quality, 
+A coordinator oversees activities in a specific language.
 
 ### Priviledges
 A coordinator has access to the following features in their specific language:
@@ -26,5 +25,4 @@ A coordinator has access to the following features in their specific language:
 
 ### Responsibilities
 A coordinator is responsible for ensuring the quality, consistency and timeliness of translations in their language.
-They can act as translators, and, if needed, as reviewers of their own translations. 
 Coordinators actively participate in the Bisq DAO by voting up or down proposals by the translators in their team.
