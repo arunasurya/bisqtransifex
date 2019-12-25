@@ -2,8 +2,8 @@
 
 The Transifex documentation specifies six roles:
 - *An admin*, who has full access to all Transifex features.
-- *A project maintainer*, who maintains specific projects on Transifex.
 - *A team manager*, who is responsible for activities in a specific team.
+- *A project maintainer*, who maintains specific projects.
 - *A coordinator*, who oversees a specific language within a team.
 - *Reviewers*
 - *Translators*
