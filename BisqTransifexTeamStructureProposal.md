@@ -9,3 +9,11 @@ in Transifex, but only 12 of those are core, and a small fraction of the transla
 ## Proposal
 Given these factors, I propose a team structure that should make the workflow efficient due to clearly defined tasks.
 
+### Team Structure
+
+### Budget
+
+### Other Bisq Projects
+
+#### Ambassadors
+
