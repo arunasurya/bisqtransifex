@@ -1,10 +1,9 @@
 # A Proposal to establish a more official Bisq Transifex Team Structure
 
 ## Current State
-Currently there is no clear structure in the Bisq Transifex team apart from having two official admins.
-Anyone can send a request to join a language team or add a language, and there has not been defined a systematic process on
-accepting/denying these requests. All requests to join a team are accepted. We have over 30 languages and 160+ translators 
-in Transifex, but only 12 of those are core, and a small fraction of the translators contribute consistenly. 
+Currently there is no clear structure in the Bisq Transifex team apart from having two official admins. We have over 30 languages and 160+ translators in Transifex, but only 12 of those are core, and a small fraction of the translators contribute consistenly. Anyone can send a request to join a language team or add a language, and all requests to join a team are accepted.
+
+The lack of clear team structure combined with remote work results in overlooking important issues.
 
 ## Proposal
 Given these factors, I propose a team structure that should make the workflow efficient due to clearly defined tasks.
@@ -30,10 +29,6 @@ A coordinator has access to the following features in their specific language:
 ### Responsibilities
 A coordinator is responsible for ensuring the quality, consistency and timeliness of translations in their language.
 Coordinators actively participate in the Bisq DAO by voting up or down proposals by the translators in their team. In addition, a coordinator is available to guide new translators, help resolve Transifex issues in their language, and explore opportunities to expand Bisq in their region. Any coordinator who has contributed on a regular basis can become an admin once the position is open.
-
-
-
-
 
 
 ### Budget
