@@ -13,7 +13,10 @@ We already have two admins but one of them (@ripcurlx) is also responsible for m
 
 The Bisq Transifex team consists of two admins, 12 coordinators, and many reviewers and translators. The admins encompass three Transifex roles (an admin, a project maintainer and a team manager). A project maintainer role can also be shared with other contributors whose work is vital to a specific project.
 
-## Coordinators
+### Admins
+Admins may decide between themselves how to best split the responsibilities. At times, both admins are very active in the project, at other times, one may take over most of the tasks. In any case, there is continuous communication between them.
+
+### Coordinators
 A coordinator oversees activities in a specific language.
 
 ### Priviledges
