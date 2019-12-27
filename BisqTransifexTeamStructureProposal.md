@@ -1,7 +1,11 @@
 # Proposal for a new Bisq Transifex Team Structure
 
 ## Current State
-Currently there is no clear organizational structure in the Bisq Transifex team apart from having two official admins and dozens of translators, all of whom working remotely across different time zones. We have over 30 languages and 160+ translators on the Transifex platform, but only 12 of those languages are core (the work for which is compensated), and only a fraction of the translators contribute regularly. Since Bisq is an open source project, anyone can join a language team and start translating. There is no systematic process to assess and verify the quality of translations, and due to a relatively high turnover of translators and a sizeable number of core languages, it has been difficult to ensure that all the international versions of the Bisq software are of high quality. There is no clear hierarchy, and minor issues can sometimes distract contributors from their main work. Several translators have had substantial contributions yet were not fully recognized for their work, and possibly not properly compensated. Lack of clear accountability among contributors leads to a slowed down and sporadic workflow, while admins are held responsible for any potential failure, without having much authority. 
+Currently the Bisq Transifex team has no clear organizational structure, apart from having two official admins and dozens of translators, all of whom working remotely across different time zones. We have over 30 languages and 160+ translators on the Transifex platform, but only 12 of those languages are core (the work for which is compensated), and only a fraction of the translators contribute regularly. 
+
+Since Bisq is an open source project, anyone can join a language team and start translating. There is no systematic process to assess and verify the quality of translations, and due to a relatively high turnover of translators and a sizeable number of core languages, it has been difficult to ensure that all the international versions of the Bisq software are of high quality.
+
+The lack of clear accountability among contributors leads to a sporadic workflow, and lack of hierarchy can cause slowed down work and an imbalance in responsibility without authority. Several translators have had substantial contributions yet were not fully recognized for their work, and possibly not properly compensated. 
 
 ## Proposal
 Given these factors, I propose a team structure that should make the workflow efficient due to clearly defined tasks.
