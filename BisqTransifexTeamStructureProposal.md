@@ -18,7 +18,7 @@ We already have two admins but one of them (@ripcurlx) is also responsible for m
 The Bisq Transifex team consists of two admins, 12 coordinators, and many reviewers and translators. The admins encompass three Transifex roles (an admin, a project maintainer and a team manager). A project maintainer role can also be shared with other contributors whose work is vital to a specific project.
 
 ### Admins
-Admins may decide between themselves how to best split the responsibilities. At times, both admins are very active in the project, at other times, one may take over most of the tasks. In any case, there is continuous communication between them.
+Admins may decide between themselves how to best split the responsibilities. At times, both admins are very active in the project, at other times, one may take over most of the tasks. In any case, there is continuous communication between them. Admins are ultimately responsible for the timely and consistent delivery of the high quality product (translations). Only one of the admins has access to merge changes to the software and update translations for each new release. They should have both a high level and a detailed view of the project.
 
 ### Coordinators
 A coordinator oversees activities in a specific language.
@@ -37,3 +37,9 @@ Coordinators actively participate in the Bisq DAO by voting up or down proposals
 
 
 ### Budget
+I believe that the Bisq team should have a clear budget which includes:
+- Compensation for translators and reviewers.
+- Compensation for active contributors.
+- Compensation for project maintainers who are not involved in the project full time.
+- Compensation for admins.
+
