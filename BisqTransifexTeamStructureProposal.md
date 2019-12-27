@@ -10,9 +10,10 @@ Since there are no clearly defined roles for most contributors in the team, some
 While we have two admins, one of them (@ripcurlx) is also highly involved in many vital Bisq projects thart require his attention, and the other (@arunasurya) is not available full time. 
 
 ## Proposal
-Given these factors, I propose the following team structure. The benefits are:
-- Responsibility increases with experience
-While anyone can become a translator, one needs to demonstrate high level of competence in their language to gain access to review. Those reviewers who further improve the software or/and translations by finding bugs, reporting issues, etc, can beomce coordinators, and can ask for compensation for those various tasks they have performed.
+Given these factors, I propose the following team structure. Here are some of the benefits:
+- *There is a clear progression of roles*. 
+   - While anyone can become a translator, one needs to demonstrate high level of competence in their language to gain access to review. Those reviewers who further improve the software or/and translations by finding bugs, reporting issues, etc, can beomce coordinators, and can ask for compensation for those various tasks they have performed. If there is a need for a new admin, the position can be filled by one of the most active and interested coordinators.
+- *Each subgroup has a manageable number of contributors".
 
 
 
