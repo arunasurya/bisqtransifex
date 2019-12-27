@@ -1,9 +1,7 @@
-# A Proposal to establish a more official Bisq Transifex Team Structure
+# Proposal for the new Bisq Transifex Team Structure
 
 ## Current State
-Currently there is no clear structure in the Bisq Transifex team apart from having two official admins. We have over 30 languages and 160+ translators in Transifex, but only 12 of those are core, and a small fraction of the translators contribute consistenly. Anyone can send a request to join a language team or add a language, and all requests to join a team are accepted.
-
-The lack of clear team structure combined with remote work results in overlooking important issues.
+Currently there is no clear organizational structure in the Bisq Transifex team apart from having two official admins and dozens of translators, all of whom working remotely across different time zones. We have over 30 languages and 160+ translators in the Transifex platform, but only 12 of those languages are core (the work for which is compensated), and only a fraction of the translators contribute regularly. Since Bisq is an open source project, anyone can join a language team and start translating. There is no systematic process to assess and verify the quality of translations, and due to a relatively high turnover of translators and a sizeable number of core languages, it has been difficult to ensure that the international versions of the Bisq software are in best possible form.
 
 ## Proposal
 Given these factors, I propose a team structure that should make the workflow efficient due to clearly defined tasks.
