@@ -7,17 +7,17 @@ Since Bisq is an open source project, anyone can become a translator by sending 
 
 Since there are no clearly defined roles for most contributors in the team, some contributions may not get fully recognized and properly compensated, which can lead to resentment and loss of trust in the project. Lack of accountability can lead to a sporadic workflow, and lack of hierarchy can cause delays or uncertainty in some projects.
 
-While we have two admins, one of them (@ripcurlx) is also highly involved in many vital Bisq projects thart require his attention, and the other (@arunasurya) is not available full time. 
+While we have two admins, one of them (@ripcurlx) is also highly involved in many vital Bisq projects thart require his attention, and the other (@arunasurya) is not available full time. As more and more contributors join, and more core languages are added, it becomes unmanageable for admins to communicate effectively with all the translators.
 
 ## Proposal
 Given these factors, I propose the following web-like team structure, as roughly depicted in the diagram below: 
 - Each circle and their respective letters represent *roles, not people*. These include admins, coordinators, translators and reviewers.
 - The numbers represent each of the current twelve core languages and their variants.
-- The grey area means that each of the
+- Each language team has a coordinator who is typically also a translator, and other translators and reviewers.
+- The grey area means that most of the tasks can be done by one admin or a coordinator can also act as a reviewer.
 - The solid lines between the roles represent regular communication. Thus, admins work closely with each other and with the coordinators, while coordinators work closely with the translators and reviewers for their specific language.
-- There is open communication on Keybase (#transifex channel) and other platforms, presented by dotted lines.
-- Admins ensure that all the Bisq translations are accurate and updated, and that everyone in the team has a clear understanding of the project and its goals. It becomes unmanageable to try to communicate with dozens of contributors, especially if there is a high turnover. Thus, they work closely with each other and with the coordinators, yet are reachable by new translators.
-
+- There is open communication on Keybase (#transifex channel) and other platforms, represented by dotted lines.
+- Admins ensure that all the Bisq translations are accurate and updated, and that everyone in the team has a clear understanding of the project and its goals. While they work closely with the coordinators, they also need to be available to all the contributors in the Bisq Transifex Project, as shown by the dotted lines.
 
 Here are some of the benefits of the proposed structure:
 - *There is a clear progression of roles*. 
