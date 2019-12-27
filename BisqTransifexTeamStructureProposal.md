@@ -3,11 +3,11 @@
 ## Current State
 Currently the Bisq Transifex team has no clear organizational structure, apart from having two official admins and dozens of translators, all of whom working remotely across different time zones. We have over 30 languages and 160+ translators on the Transifex platform, but only 12 of those languages are core (the work for which is compensated), and only a fraction of the translators contribute regularly. 
 
-Since Bisq is an open source project, anyone can join a language team and start translating. There is no systematic process to assess and verify the quality of translations, and due to a relatively high turnover of translators and a sizeable number of core languages, it has been difficult to ensure that all the international versions of the Bisq software are of high quality.
+Since Bisq is an open source project, anyone can become a translator by sending a request to join on Transifex, and all requests to translate are accepted. There is no systematic process to assess and verify the quality of translations and evaluate their usage. There have been some big changes in the client, so there is a strong need for ensuring that all participating translators have a moderately good understanding of the software to be able to convey it in their language.
 
-Since there are no clearly defined roles for most contributors in the team, some contributions do not get fully recognized and properly compensated, which can lead to resentment and loss of trust in the project. Lack of accountability can lead to a sporadic workflow, and lack of hierarchy can shift priority from important parts of the project to the ones that get a lot of attention from new contributors.
+Since there are no clearly defined roles for most contributors in the team, some contributions may not get fully recognized and properly compensated, which can lead to resentment and loss of trust in the project. Lack of accountability can lead to a sporadic workflow, and lack of hierarchy can cause delays or uncertainty in some projects.
 
-While we have two admins, one of them (@ripcurlx) is also responsible for many other vital Bisq projects thart require his attention, and the other (@arunasurya) is not available full time. 
+While we have two admins, one of them (@ripcurlx) is also highly involved in many vital Bisq projects thart require his attention, and the other (@arunasurya) is not available full time. 
 
 ## Proposal
 Given these factors, I propose a team structure that should make the workflow efficient due to clearly defined tasks.
