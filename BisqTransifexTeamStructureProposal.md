@@ -30,8 +30,3 @@ Coordinators actively participate in the Bisq DAO by voting up or down proposals
 
 
 ### Budget
-
-### Other Bisq Projects
-
-#### Ambassadors
-
