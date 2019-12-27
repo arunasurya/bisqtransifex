@@ -12,7 +12,8 @@ While we have two admins, one of them (@ripcurlx) is also highly involved in man
 ## Proposal
 Given these factors, I propose the following web-like team structure, as roughly depicted in the diagram below: 
 - Each circle and their respective letters represent *roles, not people*. These include admins, coordinators, translators and reviewers.
-- Each core language team has a coordinator whose main role is to ensure that the translations are accurate, presented well in the software, and are updated in each release.
+- The numbers represent each of the current twelve core languages and their variants.
+- The grey area means that each of the
 - The solid lines between the roles represent regular communication. Thus, admins work closely with each other and with the coordinators, while coordinators work closely with the translators and reviewers for their specific language.
 - There is open communication on Keybase (#transifex channel) and other platforms, presented by dotted lines.
 - Admins ensure that all the Bisq translations are accurate and updated, and that everyone in the team has a clear understanding of the project and its goals. It becomes unmanageable to try to communicate with dozens of contributors, especially if there is a high turnover. Thus, they work closely with each other and with the coordinators, yet are reachable by new translators.
@@ -61,5 +62,5 @@ I believe that the Bisq team should have a clear budget which includes:
 
 ### Concreate Steps
 
-We already have a list of coordinators for almost all of the core language teams. I am planning to schedule regular calls with each of these contributors.
+We already have a list of coordinators for almost all of the core language teams. I am planning to schedule regular calls with each of these contributors. Each coordinator will then reach out to all translators and reviewers in the language team.
 
