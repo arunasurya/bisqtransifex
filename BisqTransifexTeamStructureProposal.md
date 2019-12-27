@@ -1,4 +1,4 @@
-# Proposal for the new Bisq Transifex Team Structure
+# Proposal for a new Bisq Transifex Team Structure
 
 ## Current State
 Currently there is no clear organizational structure in the Bisq Transifex team apart from having two official admins and dozens of translators, all of whom working remotely across different time zones. We have over 30 languages and 160+ translators on the Transifex platform, but only 12 of those languages are core (the work for which is compensated), and only a fraction of the translators contribute regularly. Since Bisq is an open source project, anyone can join a language team and start translating. There is no systematic process to assess and verify the quality of translations, and due to a relatively high turnover of translators and a sizeable number of core languages, it has been difficult to ensure that the international versions of the Bisq software are in best possible form.
