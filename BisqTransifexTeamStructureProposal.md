@@ -7,13 +7,13 @@ Since Bisq is an open source project, anyone can join a language team and start 
 
 Since there are no clearly defined roles for most contributors in the team, some contributions do not get fully recognized and properly compensated, which can lead to resentment and loss of trust in the project. Lack of accountability can lead to a sporadic workflow, and lack of hierarchy can shift priority from important parts of the project to the ones that get a lot of attention from new contributors.
 
+While we have two admins, one of them (@ripcurlx) is also responsible for many other vital Bisq projects thart require his attention, and the other (@arunasurya) is not available full time. 
+
 ## Proposal
 Given these factors, I propose a team structure that should make the workflow efficient due to clearly defined tasks.
 
 ### Team Structure
 I propose the following team structure which mirrors the one in Transifex official documentation but is also substantially simplified.
-We already have two admins but one of them (@ripcurlx) is also responsible for many vital Bisq projects and the other 
-(@arunasurya) is not available full time. 
 
 The Bisq Transifex team consists of two admins, 12 coordinators, and many reviewers and translators. The admins encompass three Transifex roles (an admin, a project maintainer and a team manager). A project maintainer role can also be shared with other contributors whose work is vital to a specific project.
 
