@@ -59,3 +59,7 @@ I believe that the Bisq team should have a clear budget which includes:
 - Compensation for project maintainers who are not involved in the project full time.
 - Compensation for admins.
 
+### Concreate Steps
+
+We already have a list of coordinators for almost all of the core language teams. I am planning to schedule regular calls with each of these contributors.
+
