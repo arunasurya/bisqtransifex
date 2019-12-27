@@ -22,11 +22,12 @@ Given these factors, I propose the following web-like team structure, as roughly
 Here are some of the benefits of the proposed structure:
 - *There is a clear progression of roles*. 
    - While anyone can become a translator, one needs to demonstrate high level of competence in their language to gain access to review. Those reviewers who further improve the software or/and translations by finding bugs, reporting issues, etc, can become coordinators, and can ask for compensation for those various tasks they have performed. If there is a need for a new admin, the position can be filled by one of the most active and interested coordinators.
-- *It is more manageable to have regular communication with contributors in each subteam".
+- *It is more manageable to have regular communication with contributors in each subteam*.
    - Admins communicate regularly with each other and with the coordinators, while a coordinator communicates regularly with 
    the translators and reviewers in their language subteam to discuss specific details of their work.
    - New temporary teams can arise to solve a specific problem. They have a similar structure to ensure that important aspects of the project are communicated to everyone. They consist of an admin, a project maintainer for a specific project in Transifex and a coordinator from a language team if the project is language specific.
-- The internal cohesion in each language team would allow for more effective ambassador work since there is an overlap between translators and ambassadors.
+- *Collaboration on new projects*.
+   - The internal cohesion in each language team would allow for more effective ambassador work since there is an overlap between translators and ambassadors.
 
 
 ### Team Structure
