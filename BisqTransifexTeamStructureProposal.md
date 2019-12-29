@@ -25,7 +25,7 @@ All but two language teams already have unofficial [coordinators](https://docs.g
 
 ### Benefits
 This web-like structure is in line with the Bisq DAO values such as meritocracy, gradual increase in responsibilities and open communication. It focuses more on roles than on people.
-- *All core languages get attention".
+- *All core languages get attention*.
    - This structure ensures that all core languages are given proper attention.
 - *There is a clear progression of roles*. 
    - While anyone can become a translator, one needs to demonstrate high level of competence in their language to gain access to review. Those reviewers who further improve the software or/and translations by finding bugs, reporting issues, etc, can become coordinators, and can ask for compensation for the tasks they have performed. If there is a need for a new admin, the position can be filled by one of the active coordinators.
