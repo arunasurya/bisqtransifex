@@ -18,7 +18,7 @@ Given these factors, I propose the following web-like team structure, as roughly
 - Each language team has a coordinator who is typically also a translator, and other translators and reviewers.
 - The grey area means that most of the tasks or roles can be done by a single contributor, for instance, a coordinator can also act as a reviewer.
 - The solid lines between the roles represent regular communication and close collaboration. Thus, the admins work closely with each other and with the coordinators, while coordinators work closely with the translators and reviewers for their specific language.
-- There is open communication on Keybase (#transifex channel) and other platforms, represented by dotted lines.
+- There is open communication on Keybase (#transifex channel) and other platforms where existing translators can share their ideas and concerns and new translators can reach out to anyone in the channel, as represented by dotted lines.
 - Admins ensure that all the Bisq translations are accurate and updated, and that everyone in the team has a clear understanding of the project and its goals. While they work closely with the coordinators, they are also available to welcome and answer questions from new contributors, and connect them to the right team coordinator.
 
 All but two language teams already have unofficial [coordinators](https://docs.google.com/spreadsheets/d/1P4JMLrcRtSWkxfh9jG7AXkfdgdkEYwgttGgly-ercXc/edit#gid=98383320) who are open to contributing more. Some of the coordinators are also involved in current projects such as @fabiok(@fkrauss) who is looking into automating the website translation.
