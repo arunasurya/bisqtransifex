@@ -31,9 +31,9 @@ This web-like structure is in line with the Bisq DAO values such as meritocracy,
    - While anyone can become a translator, one needs to demonstrate a high level of competence in their language to gain access to review. Those reviewers who further improve the software or/and translations by finding bugs, reporting issues, etc, can become coordinators, and can ask for compensation for the tasks they have performed. If there is a need for a new admin, the position can be filled by one of the active coordinators.
 - *It is more manageable to have regular communication with contributors in each subteam*.
    - In this structure, the admins communicate regularly with each other and with the coordinators, while a coordinator communicates regularly with the translators and reviewers in their language subteam to discuss specific details of their work.
-   - New temporary teams can easily arise to solve a specific problem (as seen in purple around C1, R1, PM). They have a similar structure to ensure that important aspects of the project are communicated to everyone. They will consist of an admin, a project maintainer for a specific project in Transifex (who can either be a part of the Transifex team or some other Bisq contributor), and a coordinator from a language team if the project is language specific.
 - *Collaboration on new projects*.
-   - The internal cohesion in each language team would allow for more effective ambassador work since there is an overlap between translators and ambassadors.
+  - New temporary teams can easily arise to solve a specific problem (as seen in purple around C1, R1, PM). They will consist of an admin, a project maintainer for a specific project in Transifex (who can either be a part of the Transifex team or some other Bisq contributor), and a coordinator from a language team if the project is language specific.
+  - The internal cohesion in each language team would allow for more effective ambassador work since there is an overlap between translators and ambassadors.
 
 
 ### Responsibilities
