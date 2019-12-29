@@ -53,7 +53,9 @@ A coordinator is responsible for ensuring the quality, consistency and timelines
 Coordinators actively participate in the Bisq DAO by voting up or down proposals by the translators in their team. In addition, a coordinator is available to guide new translators, help resolve Transifex issues in their language, and explore opportunities to expand Bisq in their region. Any coordinator who has contributed on a regular basis can become an admin once the position is open.
 
 ### Budget
-We are going to track Transifex related expenses for every cycle and based on that information we can set a budget. It is hard to assess right now how much it will cost to have official admins for each language team since the compensation will depend on the amount of useful work done. The budget will include compensation for all the translations and reviews done during the cycle, compensation for admins and coordinators, which will vary depending on the amount of work done as well as compensation for other contributors who havve worked on specific Transifex projects.
+We are going to track Transifex related expenses for every cycle, and we can set a budget based on that information. It is hard to assess right now how much it will cost to have official coordinators for each language team since the compensation will depend on the amount of useful work done. 
+
+The budget will include compensation for all the translations and reviews done during the cycle, compensation for admins and coordinators (which will vary depending on the amount of work done) as well as compensation for other contributors who have worked on specific Transifex projects (e.g., automating website translations, etc).
 
 ## Next Steps
 - I will reach out to all the unofficial [coordinators](https://docs.google.com/spreadsheets/d/1P4JMLrcRtSWkxfh9jG7AXkfdgdkEYwgttGgly-ercXc/edit#gid=98383320) and discuss these ideas as well as concrete steps to improve the project and their language teams.
