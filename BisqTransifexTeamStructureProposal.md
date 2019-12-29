@@ -56,5 +56,7 @@ Coordinators actively participate in the Bisq DAO by voting up or down proposals
 We are going to track Transifex related expenses for every cycle and based on that information we can set a budget. It is hard to assess right now how much it will cost to have official admins for each language team since the compensation will depend on the amount of useful work done. The budget will include compensation for all the translations and reviews done during the cycle, compensation for admins and coordinators, which will vary depending on the amount of work done as well as compensation for other contributors who havve worked on specific Transifex projects.
 
 ## Next Steps
-We already have a list of coordinators for almost all of the core language teams. I am planning to have regular calls with each of these coordinators. Each coordinator will then reach out to all the current translators and reviewers in their language team.
+- I will reach out to all the unofficial [coordinators]((https://docs.google.com/spreadsheets/d/1P4JMLrcRtSWkxfh9jG7AXkfdgdkEYwgttGgly-ercXc/edit#gid=98383320)) and discuss these ideas as well as concrete steps to improve the project and their language teams.
+- I will start keeping track of the expenses for the project (adding up relevant compensation requests for each cycle).
+- If the proposal is accepted, I will have regular calls with the coordinators, and will ensure that the coordinators have regular communication with the translators in their team.
 
