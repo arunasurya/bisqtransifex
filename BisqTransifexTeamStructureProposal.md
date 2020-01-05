@@ -42,6 +42,7 @@ This web-like structure is in line with the Bisq DAO values such as meritocracy,
 The admins will encompass three Transifex roles (an admin, a project maintainer and a team manager). A project maintainer role can also be shared with other contributors whose work is vital to a specific project. Admins may decide between themselves how to best split the responsibilities. At times, both admins are very active in the project, at other times, one may take over most of the tasks. In any case, there is continuous communication between them. Admins are ultimately responsible for the timely and consistent delivery of the high quality product (translations). Only one of the admins has access to merge changes to the software and update translations for each new release. They should have both a high level and a detailed view of the project.
 
 #### Coordinators
+##### Access
 A coordinator oversees activities in a specific language and has access to the following features in their specific language:
 - Accept/deny join requests and invite translators.
 - Assign some translators as reviewers.
@@ -49,7 +50,15 @@ A coordinator oversees activities in a specific language and has access to the f
 - Review translations.
 - Submit translations.
 
-A coordinator is responsible for ensuring the quality, consistency and timeliness of translations in their language.
+##### Responsibilities
+A coordinator is responsible for ensuring the quality, consistency and timeliness of translations in their language. The coordinator tasks: 
+- Follow up with the translators and reivewers on the translation progress
+- Maintain and udpate their language team structure on Transifex (e.g., remove inactive translators, etc)
+- If there is no translation activity, translate the remaining strings for the next release
+- Check the final translations in the software to ensure that there are no issues
+- If there are no reviewers, review the software translations
+- Review all the website translations and ensure that there are up to date
+
 Coordinators actively participate in the Bisq DAO by voting up or down proposals by the translators in their team. In addition, a coordinator is available to guide new translators, help resolve Transifex issues in their language, and explore opportunities to expand Bisq in their region. Any coordinator who has contributed on a regular basis can become an admin once the position is open.
 
 ### Budget
