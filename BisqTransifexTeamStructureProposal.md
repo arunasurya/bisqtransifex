@@ -51,15 +51,26 @@ A coordinator oversees activities in a specific language and has access to the f
 - Submit translations.
 
 ##### Responsibilities
-A coordinator is responsible for ensuring the quality, consistency and timeliness of translations in their language. The coordinator tasks: 
-- Follow up with the translators and reivewers on the translation progress
-- Maintain and udpate their language team structure on Transifex (e.g., remove inactive translators, etc)
-- If there is no translation activity, translate the remaining strings for the next release
-- Check the final translations in the software to ensure that there are no issues
-- If there are no reviewers, review the software translations
-- Review all the website translations and ensure that there are up to date
+A coordinator is responsible for ensuring the quality, consistency and timeliness of translations in their language. The priority is always given to the Bisq desktop translations, followed by website translations.
 
-Coordinators actively participate in the Bisq DAO by voting up or down proposals by the translators in their team. In addition, a coordinator is available to guide new translators, help resolve Transifex issues in their language, and explore opportunities to expand Bisq in their region. Any coordinator who has contributed on a regular basis can become an admin once the position is open.
+Primary coordinator tasks (Bisq Desktop & Bisq Website):
+- Follow up with the translators and reivewers on the translation progress.
+- Maintain and udpate their language team structure on Transifex (e.g., remove inactive translators, etc).
+- If there is no translation activity, translate the remaining strings for the next release.
+- Check the final translations in the software to ensure that there are no issues.
+- If there are no reviewers, review the software translations.
+- Review all the website translations and ensure that there are up to date.
+- Communicate any issues to the admin(s).
+- Vote on the compensation requests for activities in their language.
+- Help resolve Transifex issues that are specific to their language.
+- Guide new translators who joined their language team.
+- Raise any ipmortant issues in their language either to one of the admins or to a wider Bisq team.
+
+Secondary coordinator tasks:
+- Explore opportunities to expand Bisq in their region (e.g., work with ambassadors or act as one).
+- Review the existing subtitles in their language.
+
+Any coordinator who has contributed on a regular basis can become an admin once the position is open.
 
 ### Budget
 We are going to track Transifex related expenses for every cycle, and we can set a budget based on that information. It is hard to assess right now how much it will cost to have official coordinators for each language team since the compensation will depend on the amount of useful work done. 
